@@ -1,0 +1,2007 @@
+//Groups
+
+@900=~Install Special Feature~
+@901=~Install Fighter Kits~
+@902=~Install Ranger Kits~
+@903=~Install Paladin Kits~
+@904=~Install Monk Kits~
+@905=~Install Thief Kits~
+@906=~Install Cleric Kit Penalties~
+@907=~Install Cleric Kits~
+@908=~Install Druid Kit Penalties~
+@909=~Install Druid Kits~
+
+//2.7 text additions
+
+//Installation
+
+@7001=~Install IWD Enhanced Edition Kitpack Special Feature~
+
+//Fighter
+@7002=~Install Breachgnome~
+@7003=~Install Mercenary~
+@7004=~Install Myrmidon~
+@7005=~Install Tunnelrat~
+
+//Ranger
+@7006=~Install Giant Killer~
+
+//Paladin
+@7007=~Install Knight of the Mystic Fire kit~
+@7008=~Install Walker of the Forest kit~
+@7009=~Install Holy Warrior of Suffering kit~
+
+//Monk
+@7010=~Install Brothers and Sisters of the Pure Flame~
+@7011=~Install Child of the Passive Voice~
+@7012=~Install Disciple of the Changeless Face~
+@7013=~Install Disciple of the Phoenix~
+@7014=~Install Disciple of the Salamander~
+@7015=~Install Disciple of the White Rod~
+@7016=~Install Disciple of the Yielding Way~
+@7017=~Install Monk of the Old Order~
+@7018=~Install Monk of the Order of the Long Death~
+@7019=~Install Monk of the Shimmering Wind~
+@7020=~Install Monk of the Shining Hand~
+@7021=~Install Monk of the Weeping Friars~
+@7022=~Install Zealot of the Written Word~
+
+//Thief
+
+@7023=~Install Mouseburglar kit~
+@7024=~Install Pest Controller kit~
+@7025=~Install Scout kit~
+@7026=~Install Tumbler kit~
+@7027=~Install Vermin Slayer kit~
+
+//Clerics
+
+
+@7028=~Install Penalties for Cleric Kits~
+@7029=~Install Earthwalker of Grumbar kit~
+@7030=~Install Iceguardian of Ulutiu kit~
+@7031=~Install Icepriest of Auril kit~
+@7032=~Install Leaftender kit~
+@7033=~Install Priest of Luthic kit~
+@7034=~Install Shaman of Gruumsh kit~
+@7035=~Install Treetender kit~
+@7036=~treetender~
+@7037=~Treetender~
+@7038=~TREETENDER: Although they rarely interact with other gnomes on a daily basis, these nature priests are highly respected for helping to preserve the environment in which their fellows live. Like the druid of humankind, the Treetender takes a fierce interest in his or her domain and will vigorously strive to protect it against all threats. He or she is not a complete recluse, however, and will usually make it to a local village for all the major festivals, as well as helping gnomes (and, sometimes, halflings) who   pass through his or her woods.
+
+Advantages:
+
+- Level 1: Has immunity to Entangle.
+- Level 1: Once per day the Treetender can gather herbs and use them to concoct a Potion of Healing. 
+
+HEALING POTION BREWING
+
+Level 1: Creates a Potion of Healing.
+Level 10: Creates a Potion of Extra Healing.
+Level 20: Creates a Potion of Superior Healing.
+
+- Level 3: Gains immunity to charm.
+- Can cast minor spells from the Plant sphere. This includes Entangle (1st), Shillelagh (1st), Barkskin (2nd), Goodberry (2nd), Spike Growth (3rd), Mold Touch (3rd), and Thorn Spray (4th).
+
+
+Disadvantages:
+
+- They can only become proficient in clubs, quarterstaffs, slings, and any of the weapon styles.
+- Cannot cast Animate Dead, Slay Living, or Finger of Death.
+
+
+Restrictions:
+
+- Must be a gnome.
+- Must be a neutral or good alignment~
+
+ @7039=~Through much of your existence you have lived on the outskirts of a gnome village. However, rather than involve yourself in the affairs of your own kind you have instead spent much of your life choosing to make meaningful connections with the forest around you. Curing sickly trees, fighting to stop logging, and even planting your own garden from time to time have all served to keep you interested in and connected with nature.
+
+Still, having read at a young age about the great trees of the north you have long wished to travel there to study them yourself. Unfortunately it has only been until recently that the opportunity to travel to the north has been available. 
+
+As it so happens, a ranger recently established his own dwelling near yours. With your forest in safe hands you pounce on this rare opportunity. After all, your long your time amongst nature has taught you of its own ability to protect itself - and with news of an ally establishing their own dwelling close by you are confident that after your journey you will return to find the forest you have called home to be unscathed. With this in mind you have set out for Icewind Dale, staff in hand.~
+ @7040=~The gnome equivalent to the Leaftender~
+
+ @7041=~Healing Potion Brewing~
+ @7042=~Healing Potion Brewing
+ 
+Level 1: Creates a Potion of Healing.
+Level 10: Creates a Potion of Extra Healing.
+Level 20: Creates a Potion of Superior Healing.~
+
+
+//Druid
+
+@7043=~Install Druid Kit Penalties~
+@7044=~Install Hivemaster kit~
+
+
+
+//Egg
+
+//Yeorg
+
+@8000=~Hmm, a new face in town I presume. Well met. I am Yeorg. Word had spread of travellers arriving in town.~
+@8001=~Well met indeed. Is it not strange to see a barbarian here in these parts? If I'm not mistaken your kind normally avoid places like this.~
+@8002=~Well met. Forgive me but I am unfamiliar with the troubles of the north. Would you know of anyone in need of assistance here?~
+@8003=~You are wise to think so. I have heard of an imbalance in this region and have come to render assistance to correct it. Do you know of what I speak of?~
+@8004=~I had hoped my arrival here would come unnoticed. In a town such as this anonymity can prove to be far more profitable than fame. Who here takes interest in my arrival? ~
+@8005=~My apologies, I didn't mean to disturb you.~
+@8006=~My kind? I have not walked among those you call barbarians in some time. Even if I did still follow the ways of my people this is hardly the place to be discussing such matters.~
+@8007=~I see. My apologies then. Before I leave you to your drink I do have one more question. The trip here was long and hard on our group and we find ourselves in need of coin. Would you know of anyone in need of assistance here?~
+@8008=~My apologies. I shall leave you to your drink.~
+@8009=~The town deserves better than the likes of you. I suggest you keep such thoughts of theft to yourself, along with your fingers.~
+@8010=~You'll likely find someone here looking to hire, though don't expect to find glamorous or glorious work.~
+@8011=~Very well then. I'll leave you to enjoy the fire and your drink. ~
+@8012=~Well, you were unhelpful.~
+@8013=~I shall soon be departing to Bryn Shander. I have a long journey ahead of me and I don't wish to speak any further to you.~
+
+
+@101=~Yeorg~
+@102=~Yeorg~
+
+@103=~Theatre Brochure~
+@104=~Coming soon to a theatre near you
+
+Yeorg: The NPC
+
+A passionate tale of a dragon disciple seeking vengeance against a former master. Dragons, intrigue, fire, and ice! Fun for the whole (possibily psychotic) family!
+
+
+Jansen: The Early Years
+
+(What is first written here has clearly been scratched out. Though the wording "Life in highschool was tough for Jan, as has been the case for all gnomekind." was clearly at least part of what was once written here.)
+
+Many have spoken of the Jansen family. Those that haven't probably are currently under some kind of delusion fostered on by Uncle Foolbar's knowledge of powerful herbs and potions. In "Jansen: The Early Years," we explore the psychological and sociological relationship between Jan Jansen, his pet chair, and the other members of this wacky but wholesome family.~
+
+
+//Kit Dialogues
+
+//Icepriest of Auril
+
+//Talking to Grisella
+
+@9000=~Useless. What value is a tavern without drink?~
+
+@9001=~Then go get me a cold drink! I grow weary of the warmth of this place.~
+
+@9002=~You grow weary of the warmth of this place? What an odd thing to be complaining about.~
+
+@9003=~So then, speak up already. What's the problem?~
+
+@9004=~Forgive me. Its been a long trip and that was merely a slip of the tongue. Might I inquire about the difficulty you've been having?~
+
+@9005=~Then go get me a cold drink!~
+
+
+
+
+
+
+//Pomab dialogue
+
+@9006=~I'd watch where you wag that tongue of yours, shopkeeper. Before I throw you out into the snow myself.~
+
+
+
+//Dialogue with Erevain
+
+@9007=~Auril seeks to remind us of her power with this cold. Never forget that.~
+@9008=~Truer words have never been spoken my friend. Is there something you need?~
+@9009=~I'm looking for rumours. Heard any?~
+@9010=~No nothing. Just introducing myself.~
+
+
+//Dialogue with Hrothgar
+
+@9013=~Kuldahar? I could care less about a threat to it. Still, if there's treasure to be had, we're in.~
+@9014=~Kuldahar? I could care less about a threat to it. Still, if there's treasure to be had, I'm in.~
+
+@9015=~Auril would surely look favourably upon the village if you gave some gold as tribute.~
+
+@9016=~I'll not give this village up to the Frostmaiden, however much she would like that. For your sake I hope you aren't in league with her, because if so you'll find no refuge either here or in Kuldahar with talk like that.~
+@9017=~Very well, when do we leave?~
+@9018=~I was merely offering a suggestion. When do we leave?~
+@9019=~From the look of this place I'm hoping for a particularly brutal winter.~
+@9020=~More talk like that will get you a blade to the gut. The town has enough problems and doesn't need anyone praying for more harm to come to it.~
+@9021=~Very well, when do we leave?~
+@9022=~Forgive me it was a joke that was in poor taste. When do we leave?~
+
+@9023=~For the treasure only of course. When do we leave?~
+
+//Hermit Dialogue
+
+@9024=~They were fools from the start. Hear these words and tell this to others that you meet. These frost giants were servants of Auril. Those that attempt to disturb her work will suffer a similar fate.~
+@9025=~Very well. Where are you headed?~
+
+//Nate Dialogue
+
+@9026=~I heard that Auril likes to snatch talkative little boys who are wandering along the edge of town. She then turns them into ice and displays them for all to see. Best you run along before something happens.~
+@9027=~Eeeeek!~
+
+//Lysan Dialogue
+
+@220=~You fool. Auril sends you to make the people of Kuldahar quiver in fear, yet for all the power she grants you you have scarcely done so. Instead a dead warrior shows more fear of the cold than the living in Kuldahar.~
+@221=~You speak of Auril yet you do not follow her tenants. Kuldahar's fires have never been hotter. Even when you tended to them as a barmaid. Their smith burns bright and their houses are warm. Even while you slept within.~
+@222=~The spirit of the tomb sent me. His fear of Auril amused me, enough to see the enemy even the long dead still fear.~
+@223=~He offers me information, a tool quite valuable here in the north. In return I am to rid him of you. Why do you have such interest in assaulting a spirit that is long dead?~
+@224=~It is against our own vows, but so be it!~
+
+
+//Kit Descriptions
+
+//Fighter kits
+
+
+//Breachgnome
+
+@600=~breachgnome~
+@601=~Breachgnome~
+@602=~BREACHGNOME: The Breachgnome is a heroic defender of gnomekind. They are known to put themselves in harms way, whatever the outcome, and to hold off an enemy as long as is needed. Frequently they receive training from both their own masters as well as members of other races in order to improve their skills at defending from attacks.
+
+Advantages
+
+- Level 1: It can use its Hold the Line ability once per day. It gains an additional use out of this ability every 4 levels.
+
+HOLD THE LINE
+
+When this ability is used the Breachgnome remains still, holding his place in order to defend himself from all attacks made against him. 
+
+When activated the Breachgnome's AC is further reduced by 1 for every 2 levels the Breachgnome has obtained. This is to a maximum of -10 at level 20. The ability lasts for one turn, after which the Breachgnome may move around as needed.
+
+- Level 2: Gains -1 AC every 2 levels, to a maximum of -5 at level 10. 
+- Level 3: Becomes immune to Fear
+
+Disadvantages
+
+- Can only gain Grand Mastery in Short Swords, Warhammers, and Axes.
+- Can only become specialized in other weapons.
+- Can only gain specialization in Sword and Shield Style. No greater than proficiency can be obtained for other weapon styles.
+
+Restrictions
+
+- Must be a gnome
+- Must have 16 strength
+- Must be a neutral or good alignment~
+
+@603=~Growing up tales of gnomes who held the line while civilians fled were frequently told in your household. Gnomes that would stand against ogres, orcs, and thralls of undead when necessary whenever they could be found. Since your youth you have taken any opportunity available to learn from others of fighting styles, including members of other races, seeking fighting styles that would let you yourself act to defend others in peril.
+
+In time you came to be under the tutelage of a master of the fighting arts. It was through his own advice that you set out for the City of Calimport. There you learned the art of defence from Andar Sciatto, a half-elf Blade of considerable talent. 
+
+It was from him that you learned the art of parrying, a skill that he had clearly mastered. His lessons are lessons you have taken to heart, though you continue to rely on using both a weapon and a shield in combat.
+
+Ultimately however, life in a larger city simply wasn't for you. After a number of months you decided to leave the city and with the knowledge you now possessed you sought to return to your village and settling down, perhaps one day becoming leader of the town watch.
+
+You expected to arrive back to your village with a happy heart, eager to see your master, friends, and family. Instead as you approached the village the signs of an attack became increasingly apparent. Smoke still lingered over parts of the village, while others had been reduced to ash and burnt timber. The signs of gnomes fleeing was also apparent, though how many left alive was not clear.
+
+As you studied the town in search of the origins of the attack it became clear from the direction of the barricades that it had most likely come from a cave in the northern end of the village. At the entrance to this cave lay what you most feared, the lifeless body of your master. He clearly had tried to hold the attack off as long as he could - though it had not been enough. It is clear that without strong, healthy, heroes available the town quickly fell. When you were needed most you were not there, a fact that haunts you to this day.
+
+You left your village and travelled around, hoping to hear of survivors. Unfortunately, tracking the remainder of your kind proved difficult. Most of the humanoids you spoke to shared any interest in sharing what (if anything) they knew.
+
+Having found no trace of what was left of your village your sights turned towards other areas of the realms that could use your aid. Hearing frequent tales of orc, bugbear, and goblin raids in the north convinced you that your help is needed there. You have since decided to leave all that you know hoping to serve as a stalwart defender of the villages of the Ten Towns. You have set your sights on Easthaven, a small fishing village near the Spine of the World, hoping to render whatever assistance you can for it.~
+@604=~A gnome that fights to hold the line to let others escape.~
+
+@605=~Hold the Line~
+@606=~Hold the Line
+
+When this ability is used the Breachgnome remains still, holding his place in order to defend himself from all attacks made against him. 
+
+When activated the Breachgnome's AC is further reduced by 1 for every 2 levels the Breachgnome has obtained. This is to a maximum of -10 at level 20. The ability lasts for one turn, after which the Breachgnome may move around as needed.~
+
+@607=~mercenary~
+@608=~Mercenary~
+@609=~MERCENARY: A mercenary is an outcast from halfling society who is forced to mingle with humans, elves, dwarves, and even goblinoids. Their skills can vary but their pasts frequently share a story of being mistreated and driven from their homes. Out of necessity they've learn a wide variety of skills that a fighter would otherwise might avoid.
+
+Advantages:
+
+- Level 1: Immune to blindness
+- Level 1: Can use Tracking once per day. Every 4 levels they gain an additional use of this ability.
+- Level 2: They receive -1 Thac0, +2 damage when they use missile weapons. This is on top of any weapon proficiency bonus they may have.
+- Level 2: Receives a stipend of gold every two levels. This represents 10% of the current parties gold.
+ 
+Disadvantages:
+
+- Cannot have higher than 16 charisma.
+
+Restrictions:
+
+- Must be a halfling
+- Must have 13 strength, 13 dexterity, and 13 constitution.~
+
+@610=~You began life as the son of your villages cobbler. Life was easy and simple, provided the feet of villagers remained well cared for.
+
+Life since those early years however has shown them to be little more than an illusion. In the early morning hours of your 18th year you heard loud knocking upon your door. At the door was the village sheriff, a lawful man dedicated largely to preserving the peace. The truth, at least to him, was less important than ensuring order.
+
+As it turned out you stood accused of murder. Unfortunately, you could not remember the night in question. Blurry images and endless ales are all that seem to come to mind, though at this point it makes little difference. Seeing no chance to prove your innocence you fled the village in the night. 
+
+As a result you are now an outlaw. Your connections to friends and family have been torn from you by your decision to leave. They themselves will no doubt be regarded by others with suspicion.
+
+Now you live a life of wandering, seeking employment where it can be found. You are not by any means a well trained fighter, however there is little other work for you. You've learned to take work wherever you can find it, even if payment cannot be made right away, as a steady income has its own rewards.
+
+Having heard tales of work to be found in the north you have begun a long journey northward. Perhaps it is in the north that you will find your place in this cold and unforgiving world. ~
+
+@611=~A halfling who has been kicked out of their village and now is a mercenary for hire~
+
+
+
+//Myrmidon
+@105=~myrmidon~
+@106=~Myrmidon~
+@107=~MYRMIDON: The Myrmidon is the ultimate soldier. He may be a high-ranking officer or a career sergeant; he may belong to one nation's armed forces or may be a mercenary. To an adventuring party he brings discipline and a useful understanding of military tactics, even though he can often be rigid and contemptuous. His stature, posturing, and maneuvers make him however very recognizable in any group, which makes him less likely to successfully dodge ranged attacks made by enemies. Most of his experience in fighting would have involved fighting other humans or similar humanoids with very traditional weapons.
+
+Advantages:
+
+- Gets a +1 Thac0, +2 damage, and -2 speed factor bonus regardless of the weapon he is using.
+- Gets an additional +2 Thac0 against humanoids (Goblins, humans, elves, dwarves, kobolds, Lizard Man, etc)
+- Has +25% cold resistance
+
+Disadvantages:
+
+- Gets +3 AC against all ranged attacks made against him
+- Though he can gain grandmastery in any other weapon he can only become proficient with katanas and scimitars.
+
+Restrictions: 
+
+- Must have at least 12 strength, 8 dexterity, 10 constitution, and 9 intelligence~
+
+@108=~For many years you have served as a member of the City Watch in Neverwinter, year after year gradually harnessing and fine-tuning your skills. Having officially risen to the rank of Sergeant recently you have decided that life in the City Watch is no longer for you. You have since retired from the watch and now seek to hire yourself out for work elsewhere. Work in the city has become increasingly tedious, and the risks associated with routinely dealing with the cities criminal elements was simply not worth a watchman's salary. Finding suitable employment would normally not be difficult, but you are looking for a bit more out of your work than being a cities or lords lawman.
+
+Hearing stories of the struggles in the north you decided to inquire about opportunities for men for hire. One merchant in particular offered to garb you for such a journey provided you travel to the town of Easthaven, a small fishing village in Icewind Dale. For what reasons he did not say, though the garb he has provided you seems like it was designed to protect against the regions brutal cold. 
+
+Having some gold pieces in hand, and new garb on your back, you have decided to take up his task. You now travel to Icewind Dale hoping to find opportunity when you arrive. The price for your services are typically steep, and while the risks of traveling this far north are high you are confident that your own abilities will make up for any inexperience in these foreign lands that you may have. You have even gone ahead and sold off your old City Watch equipment, hoping in the end to start a new life in a place far removed from the petty struggles of Neverwinter's denizens.~
+@109=~The ultimate fighter~
+
+
+@110=~tunnelrat~
+@111=~Tunnelrat~
+@112=~TUNNELRAT: The tunnelrat is a warrior who specializes in underground search-and-destroy missions, especially in areas where constricted space or low ceilings would put larger warriors at a disadvantage. As such they prefer weapons that can be easily grabbed, especially for missions where climbing is involved. In particular they specialize in rooting out smaller humanoids who make their lairs underground, though they are also versed in fighting a few other select creatures. Their specialized training however has reduced their effectiveness against large creatures. They are known amongst those that hire them for being well adjusted to fighting in the dark and for being fearless warriors.
+
+Advantages:
+
+- Has infravision
+- Is immune to blindness and fear
+- Gets -3 THAC0 and +3 damage against Humanoids (Goblins, humans, elves, dwarves, kobolds, Lizard Man, etc), Spiders, Undead, Beetles, and Carrion Crawlers.
+
+Disadvantages:
+
+- Gets +3 THAC0 and -3 damage against Giant Humanoids (Giants, Ettins, Elementals, Yeti's, Trolls, Ogres, etc), Yuan-Ti, Umber Hulks, and Rehmoraz
+- Though he can get up to grandmastery with axes he cannot get proficiency in any other melee two-handed weapon or a longbow.
+
+Restrictions:
+
+- Cannot start with anything higher than 16 charisma.
+- Must be a halfling.~
+
+@113=~You grew up in Gullykin, an otherwise unremarkable halfling village located somewhat east of Beregost along the Sword Coast. You spent most of your earlier years learning the ways of the village watch, who themselves seemed woefully under-equipped and unprepared for anything beyond the occasional kobold raid. When the life of the watch began to bore you you began trying to discover any hidden secrets in and around your village.
+
+In time you discovered an old series of tunnels once used by a local trading company. Through your explorations of the site you fought a few kobolds, spiders, and other minor magical creatures, along with securing a small amount of gems and other goods of course. Though you dared not venture too far into the tunnels, lest you find yourself getting lost in them, your adventures cemented in you a desire to fight monsters throughout the realms darkest places.
+
+It wasn't long after that that you signed up to a motley band of halfling adventurers operating under the name Severes Underhill's Adventuring Acolytes. It was under their employ that you left Gullykin, only to find yourself fighting minor creature infestations up and down the Sword Coast, at one point going even as far north as Luskan. 
+
+Those days are now long past, as you were only a member of the band for about a year. The untimely death of its owner left the company broken and it dissolved soon after. From it there were lessons to be learned that those who honour the life of an adventurer learn quickly. The first was never to attract more enemies than you can handle. The second was to never underestimate your opponent. After all, even the tiniest spider bite can prove fatal to the stoutest warrior.
+
+Nevertheless, having heard tales of the troubles in Icewind Dale you have started on a long journey towards it. The opportunity to explore a region of the world that you have never been to excites you, as do the challenges that no doubt await. Walking staff in hand you head towards the village of Easthaven, hoping to prove your worth amongst the uncharted caverns of the Spine of the World.~
+@114=~A halfling warrior that is good at killing smaller creatures~
+
+
+//Ranger Kits
+
+@650=~giant killer~
+@651=~Giant Killer~
+@652=~GIANT KILLER: The Giant Killer is a skilled combatant, often from humble beginnings, trained to the specific purpose of slaying giants and other large creatures. He has mastered combat techniques designed to fell these creatures, and has become an expert in their behavior and habits. A Giant Killer is nothing if not confident; a giant's immense size merely means he makes a good target.
+
+
+Advantages:
+- Level 1: Gets a -3 Thac0 bonus vs. Giants, Ettins, Ogres, and Trolls.
+- Level 5: Gets +3 to Damage vs. Giants, Ettins, Ogres, and Trolls.
+
+Disadvantages:
+
+- Are unable to use Tracking or Charm Animal
+
+
+Restrictions:
+
+- Must have 15 strength and dexterity~
+@653=~You hail from a small, otherwise unremarkable village. Living around in a rural setting from a young age has encouraged you to gain an affinity for nature, as well as gain a respect for the importance of helping those in need.
+
+Seeing the need for someone to protect the innocent as an adult you decided to become a ranger. Though you are well versed in fighting a variety of creatures you have always in particular taken an unusual joy out of fighting giants, ettins, ogres, and trolls. 
+
+You have studied their movements, observed their behaviours, and have found that you have continued to gain a greater understanding of their weaknesses the more you encounter them. Your own successes are minimal, as this is still early in your career, however you hope to soon prove yourself.
+
+Having heard tales of the great ettins and trolls found within the caverns of the Spine of the World you have set forth for Icewind Dale hoping to test yourself against these formidable opponents.~
+
+@654=~An expert killer of giants~
+
+
+
+//Monk Kits
+
+//Brothers and Sisters of the Pure Flame
+
+@655=~monk of the pure flame~
+@656=~Monk of the Pure Flame~
+@657=~BROTHERS AND SISTERS OF THE PURE FLAME: Brothers and Sisters of the Pure Flame see the church of Kossuth as a means of advancing towards purity. Amongst this order other clergy members of Kossuth are to be viewed as expendable. They strongly believe that those who are worthy of his purity will prove themselves through their own resilience and ability.
+
+- 1st level: Can use Flaming Fist once per day.
+
+FLAMING FISTS: The Monk channels <PRO_HISHER> fire into <PRO_HISHER> unarmed attacks, turning <PRO_HISHER> fists into flaming weapons that deal an additional 2d6 fire damage per hit for the next round. The duration increases to 3 rounds at level 5, 5 rounds at level 8, 7 rounds at level 11, and 1 turn at level 14. This special ability automatically modifies normal attacks; no weapon-switching needs to be done.
+
+- 2nd level: Gains 10% fire resistance. This increases by 10% for every 2 levels until it is 100% at level 20.
+
+- 7th level: Can cast Greater Flame once per day.
+
+GREATER FLAME: The Monk wreathes <PRO_HIMHER>self in flames that act as a Fireshield (Red), granting the Monk 50% Fire Resistance and protecting <PRO_HIMHER> from attacks made within a 5-ft. radius. An opponent that hits the Monk with any weapons or spells within this radius suffers 1d10+5 points of fire damage. It lasts for 1 turn at level 1 and increases in duration by 5 rounds every 5 levels (up to a maximum of 4 turns at level 30).
+
+- 18th level: Gets and additional casting of Greater Flame.
+
+
+Disadvantages:
+
+- Cannot use Lay on Hands
+- Cannot use Stunning Blow
+- Cannot use Quivering Palm
+- Starts with -20% resistance to cold.
+
+Restriction:
+
+- Must be lawful neutral~
+
+@658=~As a Brother or Sister of the Pure Flame you have been known to travel throughout the realms seeking to spread scalding, brilliant flame of Kossuth to those who are worthy.
+
+You've always used your faith in Kossuth to spread a message of respect and reverence to those that will listen. Though others who worship Kossuth would surely disagree with you, you firmly believe that those who are worthy of the purifying flame that is Kossuth must be put to test. Those true in their worship of the Lord of Flames will agree that burnt skin and pain are merely tests along a long road to purity. Those that violently challenge his flames likewise deserve a brutal end.
+
+You have been tasked with traveling to the region of Icewind Dale. The head of your order has seen recent events transpiring in the region as an opportunity to challenge longstanding powers in the region. You travel now for Easthaven, a remote village in the southern portion of the Dale, hoping to change minds and spread warmth to a region beset by cold.~
+@659=~A neutral monk of the Brothers and Sisters of Pure Flame order~
+
+@660=~Flaming Fists~
+@661=~Flaming Fists
+
+The Monk channels <PRO_HISHER> fire into <PRO_HISHER> unarmed attacks, turning <PRO_HISHER> fists into flaming weapons that deal an additional 2d6 fire damage per hit for the next round. The duration increases to 3 rounds at level 5, 5 rounds at level 8, 7 rounds at level 11, and 1 turn at level 14. This special ability automatically modifies normal attacks; no weapon-switching needs to be done.~
+
+
+@662=~Greater Flame~
+@663=~Greater Flame
+
+The Monk wreathes <PRO_HIMHER>self in flames that act as a Fireshield (Red), granting the Monk 50% Fire Resistance and protecting <PRO_HIMHER> from attacks made within a 5-ft. radius. An opponent that hits the Monk with any weapons or spells within this radius suffers 1d10+5 points of fire damage. It lasts for 1 turn at level 1 and increases in duration by 5 rounds every 5 levels (up to a maximum of 4 turns at level 30).~
+
+
+//Child of the Passive Voice
+
+@664=~child of the passive voice~
+@665=~Child of the Passive Voice~
+@666=~CHILD OF THE PASSIVE VOICE: An order of learned monks whose members protect many libraries and abbeys. They normally will only agree to join adventuring parties if they have reason to believe a library elsewhere is threatened or that rare reading materials can be found on the journey.
+
+Advantages:
+
+- Level 1: Gains 10 lore. Gains an additional 10 lore every three levels.
+- Level 4: Can cast Clairvoyance once per day.
+- Level 7: Can cast Farsight once per day.
+- Level 13: Can cast Scribe Scrolls once per day.
+
+SCRIBE SCROLLS
+
+This ability allows a monk to create priest scrolls. The scrolls that the monk can create are randomly chosen from the following list:
+1) Protection from Acid
+2) Protection from Cold
+3) Protection from Electricity
+4) Protection from Fire
+5) Protection from Magic
+6) Protection from Poison
+7) Protection from Undead
+8) Raise Dead
+9) Heal
+10) Resurrection
+
+Disadvantages:
+
+- Cannot use Lay On Hands
+- Cannot use Stunning Blow
+- Cannot use Quivering Palm
+
+Restrictions:
+
+- Can be lawful good or lawful neutral.
+- Must have at least 9 intelligence.~
+
+
+@667=~You grew up in a small village surrounded by large cliffs, rivers, and waterfalls. Yet, despite growing up in this tranquil setting, you always found more comfort in a book than what lay outside your door.
+
+Though your parents had some degree of income and could afford to nurture your book reading habits they soon realized that there was a more appropriate setting for you to live. They arranged to have a nearby monastery of Oghma take care of you. The clerics and monks of Oghma there have since became second parents to you, particularly as you have grown older and became more aware. You still keep in contact with your parents, though these days that has become more difficult as you are often sent on tasks to various libraries across Faerun. 
+
+Having returned from a recent excursion to the library in Candlekeep you found yourself approached immediately by Loremaster Janos. He described the pressing need for you to speak with the head of the monastery, as it had been decided that you were needed on yet another mission.
+
+The head of your monastery described to you where you would be going. An icy region of the north called Icewind Dale. It was the strong belief in the older members of your order that there was significant lost knowledge and books to be found there. 
+
+You set out for Icewind Dale, walking staff in hand, with what few supplies will be needed for your long journey.~
+@668=~A monk who worships Oghma and protects libraries~
+
+@669=~Scribe Scrolls~
+@670=~Scribe Scrolls
+
+This ability allows a monk to create priest scrolls. The scrolls that the monk can create are randomly chosen from the following list:
+1) Protection from Acid
+2) Protection from Cold
+3) Protection from Electricity
+4) Protection from Fire
+5) Protection from Magic
+6) Protection from Poison
+7) Protection from Undead
+8) Raise Dead
+9) Heal
+10) Resurrection~
+
+
+//Disciple of the Changeless Face
+
+@671=~disciple of the changeless face~
+@672=~Disciple of the Changeless Face~
+@673=~DISCIPLE OF THE CHANGELESS FACE: Members of this order seek to preserve all knowledge of how things currently are in order to restore them to their former status should things change. They are a stoic and spartan order who wishes to carry on the wish of Grumbar and maintain stability in the realms.
+
+Advantage:
+
+- Level 2: Gains the ability to cast Rock Fists.  Gets an additional use every 8 levels.
+
+ROCK FISTS :Activating this ability coats your fists in a thin layer of rock, causing each hit you make to do an additional 4 crushing damage. The ability lasts for one turn, after which your fists return to normal.
+
+- Level 3: Gets 10% Crushing resistance. Continues to gain 10% crushing resistance every 3 levels, up to a maximum of 100% at level 30.
+
+- Level 7: Gains the ability to cast Stoneskin once per day.
+
+
+Disadvantage:
+
+- Cannot use Lay on Hands
+- Cannot use Stunning Blow
+- Cannot use Quivering Palm
+
+Restriction:
+
+- Must be lawful neutral~
+
+@674=~To be a Disciple of the Changeless Face requires great discipline and respect for rules. Few amongst those you have travelled seem to understand your devotion to the Earthlord, and fewer still have any understanding of the intricacies of his worship.
+
+The head of your order has recently tasked you with venturing north to the Spine of the World to seek out and destroy any force that threatens to destabilize the region. Though you have worked with others from your temple on previous assignments this journey to the north is your first truly independent assignment. 
+
+Given the the chance to test your abilities amongst the strongest creatures found in the Spine of the World you have found yourself eager to accept this task. Without hesitation you agreed to make the pilgrimage. Shortly thereafter you embark on your journey to the distant north. ~
+@675=~A monk that hits back. Rock style.~
+
+@676=~Rock Fists~
+@677=~Rock Fists
+
+Activating this ability coats your fists in a thin layer of rock, causing each hit you make to do an additional 4 crushing damage. The ability lasts for one turn, after which your fists return to normal.~
+
+
+@678=~disciple of the phoenix~
+@679=~Disciple of the Phoenix~
+@680=~DISCIPLE OF THE PHOENIX: Disciples of the Phoenix see the church of Kossuth as a means of advancing towards purity. Amongst this order other clergy members of Kossuth are to be viewed as expendable, particularly those of evil alignment. Disciples of the Phoenix strongly believe that everyone should be given a chance to prove themselves as being worthy of their lords graces.
+
+Advantages:
+
+- 1st level: Can use Flaming Fist once per day.
+
+FLAMING FISTS: The Monk channels <PRO_HISHER> fire into <PRO_HISHER> unarmed attacks, turning <PRO_HISHER> fists into flaming weapons that deal an additional 2d6 fire damage per hit for the next round. The duration increases to 3 rounds at level 5, 5 rounds at level 8, 7 rounds at level 11, and 1 turn at level 14. This special ability automatically modifies normal attacks; no weapon-switching needs to be done.
+
+- 5th Level: Can cast Resist Cold/Fire once per day.
+
+- 7th level: Can cast Greater Flame once per day.
+
+GREATER FLAME: The Monk wreathes <PRO_HIMHER>self in flames that act as a Fireshield (Red), granting the Monk 50% Fire Resistance and protecting <PRO_HIMHER> from attacks made within a 5-ft. radius. An opponent that hits the Monk with any weapons or spells within this radius suffers 1d10+5 points of fire damage.
+
+- 18th level: Gets and additional casting of Greater Flame.
+
+
+Disadvantages:
+
+-Cannot use Stunning Blow.
+-Cannot use Quivering Palm.
+-Starts with -20% resistance to cold.
+
+Restriction:
+
+- Must be lawful good.~
+
+@681=~As a member of the Disciple of the Phoenix you have been known to travel throughout the realms seeking to spread scalding, brilliant flame of Kossuth to those who are worthy.
+
+You've always used your faith in Kossuth to spread a message of good behaviour and generosity to those that will listen. Though others who worship Kossuth would surely disagree with you, you firmly believe that everyone should have the opportunity to prove themselves worthy of the purifying flame that is Kossuth. Those that violently challenge his flames deserve their fate.
+
+You have been tasked with traveling to the region of Icewind Dale. The head of your order has seen recent events transpiring in the region as an opportunity to challenge longstanding powers in the region. You travel now for Easthaven, a remote village in the southern portion of the Dale, hoping to spread warmth to a region beset by cold.~
+@682=~Good aligned monk in Kossuth's service~
+
+@683=~disciple of the salamander~
+@684=~Disciple of the Salamander~
+@685=~DISCIPLE OF THE SALAMANDER: Disciples of the Salamander see the church of Kossuth as a means of advancing towards purity. Amongst this order other clergy members of Kossuth are to be viewed as expendable, as are any others who stand in their way.
+
+Advantages:
+
+-Level 1: Can use Flaming Fists once per day.
+
+FLAMING FISTS: The Monk channels <PRO_HISHER> fire into <PRO_HISHER> unarmed attacks, turning <PRO_HISHER> fists into flaming weapons that deal an additional 2d6 fire damage per hit for the next round. The duration increases to 3 rounds at level 5, 5 rounds at level 8, 7 rounds at level 11, and 1 turn at level 14. This special ability automatically modifies normal attacks; no weapon-switching needs to be done.
+
+- Level 4: Can cast Protection from Fire once per day.
+
+PROTECTION FROM FIRE:
+
+Level: 3
+Range: 0
+Duration: 1 turn/level
+Casting Time: 3
+Area of Effect: Self
+Saving Throw: None
+
+This spell confers complete invulnerability to fire damage.
+
+- Level 7: Can cast Fireball once per day.
+
+FIREBALL:
+(Evocation)
+
+Level: 3
+Range: Visual range of the caster
+Duration: Instant
+Casting Time: 3
+Area of Effect: 30-ft. radius
+Saving Throw: 1/2
+
+To cast fireball, the monk points <PRO_HISHER> finger and speaks the range at which the fireball is to burst. A streak flashes from the pointing digit and blossoms into a fireball, delivering damage proportional to the level of the monk who cast it: 1d6 points of damage for each level of the monk (up to a maximum of 30d6). Those who roll successful Saving Throws manage to dodge, fall flat, or roll aside, taking only half damage.
+
+- Level 12: Can cast Fire Storm once per day. 
+- Level 18: Gets an additional casting of Fireball.
+
+Disadvantages:
+
+-Cannot use Lay on Hands.
+-Cannot use Stunning Blow.
+-Cannot use Quivering Palm.
+-Starts with -20% resistance to cold.
+
+
+Restriction:
+
+- Must be lawful evil.~
+
+@686=~As a Disciple of the Salamander you have been known to travel throughout the realms seeking to spread scalding, brilliant flame of Kossuth to all.
+
+Through Kossuth you have spread fire and ash, sending a message to those who challenge you that purity can only be found through flame. Though others who worship Kossuth would surely disagree with you, you firmly believe that they are fools. Those who are worthy of the purifying flame of Kossuth are those who survive through strife. Those that die on the way to purity should be viewed as tools for your own ascension, nothing more. 
+
+Those that violently challenge his flames likewise deserve to be purged, along with anyone who challenges his dominance.
+
+You have been tasked with traveling to the region of Icewind Dale. The head of your order has seen recent events transpiring in the region as an opportunity to challenge longstanding powers in the region. You travel now for Easthaven, a remote village in the southern portion of the Dale. This small fishing village will serve as but a first step in what promises to be a memorable adventure.~
+@687=~Evil aligned monk in Kossuth's service~
+
+@688=~Protection from Fire~
+@689=~Protection from Fire
+
+Level: 3
+Range: 0
+Duration: 1 turn/level
+Casting Time: 3
+Area of Effect: Self
+Saving Throw: None
+
+This spell confers complete invulnerability to fire damage.~
+
+@690=~Fireball~
+@691=~Fireball
+(Evocation)
+
+Level: 3
+Range: Visual range of the caster
+Duration: Instant
+Casting Time: 3
+Area of Effect: 30-ft. radius
+Saving Throw: 1/2
+
+To cast fireball, the monk points <PRO_HISHER> finger and speaks the range at which the fireball is to burst. A streak flashes from the pointing digit and blossoms into a fireball, delivering damage proportional to the level of the monk who cast it: 1d6 points of damage for each level of the monk (up to a maximum of 30d6). Those who roll successful Saving Throws manage to dodge, fall flat, or roll aside, taking only half damage.~
+
+
+
+@692=~disciple of the white rod~
+@693=~Disciple of the White Rod~
+@694=~DISCIPLE OF THE WHITE ROD: Loviatar teaches that the world is full of pain and torment, and the best one can do is to suffer those blows that cannot be avoided and deal as much pain back to those who offend. Disciples of the White Rod respect this view of the world and train themselves in the art of inflicting pain on others.
+
+Advantages:
+
+- Level 1: Gains the ability to cast Painful Punch once per day. Gains an additional use of this every 5 levels thereafter.
+
+PAINFUL PUNCH
+
+Each successful hit within the next 5 rounds will spread a powerful contact poison onto the target, dealing an extra 2 points of damage per second with no Saving Throw (up to a maximum of 12 points of damage per hit). Moreover, if the target fails a Saving Throw vs. Poison, <PRO_HESHE> will suffer 1 additional point of damage per round for 4 rounds. The Disciple of the White Rod who uses this ability is immune to its poisonous effects.
+
+
+- Level 5: Gains the ability to cast Greater Pain once per day.
+
+GREATER PAIN: The Monk wreathes <PRO_HIMHER>self in magic that acts as a shield, granting the Monk 50% Magic Damage Resistance and protecting <PRO_HIMHER> from attacks made within a 5-ft. radius. An opponent that hits the Monk with any weapons or spells within this radius suffers 1d10+5 points of magic damage.
+
+- Level 10: Gains the ability to cast Symbol, Pain once per day. Gains additional castings of this at level 20 and 30.
+
+
+Disadvantages:
+
+- Cannot cast Lay on Hands.
+- Cannot use Stunning Blow.
+
+Restrictions:
+
+- Must be Lawful Evil.~
+
+@695=~Your time as a Disciple in the Disciples of the White Rod has taught you if nothing else the effectiveness and value of pain. Even though you are only an initiate in your order you have watched powerful political figures begging at your masters feet, hoping to be spared the inevitable pain they were about the experience.
+
+Loviatar teaches that the world is full of pain and torment, and the best one can do is to suffer those blows that cannot be avoided and deal as much pain back to those who offend. It is with this goal in mind that all Disciples of the White Rod train under.
+
+Called by your master to meet with the head of your order, you have been summoned to spread fear of your order to other areas of the realms. While others in your order prefer warmer climates you have always taken a personal affinity for the cold and the pain it can inflict. You now travel to a region in the  northwest of Faerun called Icewind Dale. If nothing else while there you hope to test your own abilities against whatever awaits you in that inhospitable land.~
+@696=~A monk that likes to dish out pain.~
+
+
+@697=~Greater Pain~
+@698=~Greater Pain
+
+The Monk wreathes <PRO_HIMHER>self in magic that acts as a shield, granting the Monk 50% Magic Damage Resistance and protecting <PRO_HIMHER> from attacks made within a 5-ft. radius. An opponent that hits the Monk with any weapons or spells within this radius suffers 1d10+5 points of magic damage.~
+
+
+@699=~Painful Punch~
+@700=~Painful Punch
+
+Each successful hit within the next 5 rounds will spread a powerful contact poison onto the target, dealing an extra 2 points of damage per second with no Saving Throw (up to a maximum of 12 points of damage per hit). Moreover, if the target fails a Saving Throw vs. Poison, <PRO_HESHE> will suffer 1 additional point of damage per round for 4 rounds. The Disciple of the White Rod who uses this ability is immune to its poisonous effects.~
+
+
+//Disciple of the Yielding Way
+
+@70000=~disciple of the yielding way~
+@701=~Disciple of the Yielding Way~
+@702=~DISCIPLE OF THE YIELDING WAY: Sometimes known as the Brothers and Sisters of the Open Palm. These monks guard sacred sites where many peacemen and peacewomen dwell and travel the countryside gathering information for isolated groves and fastnesses. They do not ever seek to provoke violence, but are quite deceptively deadly when defending themselves, their charges, and their holy sites.
+
+Advantages:
+
+- 1st level: Can cast Sanctuary once per day. Gains additional castings once every 5 levels thereafter (level 6, 11, etc).
+- 5th level: Can cast Remove Fear once per day.
+- 7th level: Can cast Silence once per day.
+- 7th level: Is immune to Silence.
+- 11th level: Can cast Otiluke's Resilient Sphere once per day
+- 13th level: Gains a second casting of Silence on per day.
+- 15th level: Gains a second casting of Otiluke's Resilient Sphere.
+
+Disadvantages:
+
+- Cannot use Quivering Palm.
+
+Restrictions:
+
+- Must be either Lawful Good or Lawful Neutral.
+- Must have at least 9 intelligence.~
+
+@703=~As a member of the Disciples of the Yielding Way you have frequently served as a protector for Eldath's clergy. Sometimes this has involved efforts to settle disputes between warring parties, while other times it has involved protecting those looking to find isolated groves and fastnesses.
+
+Thankfully so far as has been well. Occasionally you have sparred with others of your faith. However, you lack true battlefield experience. Your order firmly believes in avoiding provoking violence, going so far as to never hit first in battle, and you personally find more interest in the cataloging of plants and animals than combat. 
+
+Though you have so far only served as an initiate in your order it was always your hope that one day you would be granted the chance to prove yourself ready for greater responsibilities.
+
+That time came soon enough, as it was only recently that you were summoned by your master. The head of your order had instructed him to send you, and you alone, to the icy region of Icewind Dale. There you are tasked to assess the situation in the north and do what you can to honour Eldath's ways. Eldath's teachings will be a stranger in these lands, but it is the belief of your master that some good can come from your visit. With that in mind you travel to the tiny fishing village of Easthaven. There you hope to find a guide to help you traverse the terrain as you visit the settlements that make up the Ten Towns.~
+@704=~A monk who follows Eldath~
+
+
+
+@705=~monk of the old order~
+@706=~Monk of the Old Order~
+@707=~MONK OF THE OLD ORDER: Monks of the Old Order do not worship any deity, but are devoted to the philosophy espoused by a deity who is either now dead or has never existed on the Material Plane of Toril. The monks contradict themselves on this point, but the deity's identity isn't important to them, it's the message they care about. The Old Order never has huge monasteries, but has spread widely throughout Faerun.
+
+
+Advantages and Disadvantages:
+
+- None
+
+Restrictions:
+- Can be of any lawful alignment.~
+
+@708=~You have spent much of your life acting as a servant in an otherwise rarely heard of order of monks called The Old Order. Through them you have learned of a deity of great wisdom and clarity, and as you have grown older your faith towards this nameless presence has only hardened.
+
+Members of your order are always interested in spreading your faith's philosophy to all those who will listen. Your order however has had difficulty recruiting new members and with that in mind it has begun sending monks of the order to the most remote regions of the world looking to gather new recruits.
+
+You have been tasked with traveling to Icewind Dale. The many towns and villages are likely in need of more faith, and you are more than happy to oblige.~
+@709=~A monk that seems to worship a god who nobody knows~
+
+
+
+
+@710=~monk of the order of the long death~
+@711=~Monk of the Order of the Long Death~
+@712=~MONK OF THE ORDER OF THE LONG DEATH: These monks seek for the secrets of life by studying death. It is the condition of being dead that concerns them most, and not what lies beyond. Obtaining the perfect death, whatever form that happens to be, is something that they revere. Their laboratories are full of decaying, dying, and dead animal and plant specimens that they study with detached interest. They frequently purchase rare specimens that they cannot obtain easily themselves from adventurers and merchants and rarely adventure themselves.
+
+
+Advantages:
+
+- Level 1: Can cast Quivering Palm once per day. Gets an additional use of it every five levels.
+- Level 6: Can cast Death Spell once per day.
+
+DEATH SPELL
+(Necromancy)
+
+Level: 6
+Range: Visual range of the caster
+Duration: Instant
+Casting Time: 1
+Area of Effect: 30-ft. radius
+Saving Throw: None
+
+When a Death Spell is cast, it snuffs out the life force of creatures within the area of effect, instantly and irrevocably. Creatures with more than 8 Hit Dice are immune to this spell with the exception of summoned creatures, which are automatically slain. Only enemies are affected by this spell.
+
+- Level 8: Can cast Deathblow once per day.
+- Level 12: Can cast Greater Deathblow once per day.
+
+Disadvantages:
+
+- Cannot use Lay on Hands
+- Cannot use Stunning Blow
+
+Restrictions:
+
+- Must be lawful neutral or lawful evil.~
+
+@713=~"Death is but a vessel to carry us to salvation."
+
+This was the final lesson you were taught by the hands of your former master. Truly they were words of wisdom, and had his death not been at your own hands you might have cared to heed them.
+
+As a member of the Order of the Long death you seek to cause a painful death for anyone you encounter, whenever possible. Death is not something to be feared so much as it is something that deserves to be perfected.
+
+Most monks in your order come and go as they please, spreading fear amongst locals of your place of worship in the process. Stories of loved ones dying violently in their sleep have long since plagued local villagers, such that your own temple can come under siege repeatedly in recent years.
+
+Recognizing the possibility of relocating to somewhere more remote the elders of your temple have suggested the possibility of the north as a new home. Cold and death are frequent bedfellows of the population there and the occasional dead villager or two should not arouse the same level of suspicion it does in the south.
+
+It has been requested that you travel to Icewind Dale, a remote region in the north, to investigate possible sites of relocation. The possibility of adventure and the chance to prove yourself made you accept this challenge. You have set off for the small fishing village of Easthaven, a remote village and one that seems might suit your unique needs.~
+@714=~A monk obsessed with causing death~
+
+
+@715=~Death Spell~
+@716=~Death Spell
+(Necromancy)
+
+Level: 6
+Range: Visual range of the caster
+Duration: Instant
+Casting Time: 1
+Area of Effect: 30-ft. radius
+Saving Throw: None
+
+When a Death Spell is cast, it snuffs out the life force of creatures within the area of effect, instantly and irrevocably. Creatures with more than 8 Hit Dice are immune to this spell with the exception of summoned creatures, which are automatically slain. Only enemies are affected by this spell.~
+
+
+//Monk of the Shimmering Wind
+
+@717=~monk of the shimmering wind~
+@718=~Monk of the Shimmering Wind~
+@719=~MONK OF THE SHIMMERING WIND: An isolationist group of monks who worship the god Akadi. These monks frequently are found in monasteries in high elevation areas. They train and read extensively about the wind and weather, hoping to gain each time new insight into it that will help them in battle.
+
+Advantages:
+
+- Level 2: They gain the ability to cast Speed of the Wind once per day.
+
+
+SPEED OF THE WIND: For the next 3 rounds this ability doubles the monks normal walking speed. Other movement-altering effects, such as Haste and Slow, cannot affect the caster while this spell is in effect. Chinook Charge may not be active while this ability is in effect.
+
+
+- Level 5: They gain the ability to use Blast of Wind on an opponent once per day. They get an additional casting of Blast of Wind at level 9.
+
+
+BLAST OF WIND
+
+This ability does 2d6 cold damage and knocks the target and anyone near them backwards. It also stuns them for 1 round. This ability does not work against large creatures.
+
+
+- Level 7: They can cast Zone of Sweet Air once per day.
+
+- Level 13: Can cast Chinook Charge once per day.
+
+
+CHINOOK CHARGE
+
+Through intense training a monk can learn to utilize the air and winds to increase their speed and attacks during a single round. At level 13 this grants a monk 6 attacks per round. It increases by 2 attacks per round every 4 levels thereafter, reaching a maximum of 10 at level 21.
+
+Speed of the Wind may not be active while this ability is in effect.
+
+
+Disadvantages:
+
+- Cannot use Stunning Blow
+- Cannot use Quivering Palm
+- Cannot use Lay on Hands
+
+Restrictions:
+
+- Must be lawful neutral or lawful evil~
+
+@720=~Until recently you lived a rather solemn existence working in a monastery atop the Nether Mountains. Travelers to your temple were rare, as few dared risk facing the bands of orcs that frequently roam the area.
+
+As an initiate in your temple you are often asked to scout the land and to keep apprised of orc numbers.
+The orcs themselves now showed little interest in the residents of your temple, having long ago learned of the power its defenders possessed, but caution still was warranted.
+
+It was during a recent patrol on your part that you came upon the corpse of a traveller. The orc arrows piercing his gut made the cause of his death clear enough, but what was more interesting was the contents of his pack.
+
+Inside you find maps and books regarding Icewind Dale, a region of the north far to the north-west of your temple. The markings on the map intrigued you, as they seemed to suggest this traveller was travelling to the tiny inlet of Easthaven, but the reasons for his traveling were not immediately apparent.
+
+As you began to study these books it became clear that the reason for this traveller taking such a dangerous path was that he was seeking adventurers and allies willing to explore the region with him. For reasons that remain unclear he had decided that your temple was a possible source of allies, an opinion that cost him dearly. 
+
+Still, you took your discoveries to the head of your temple. There while standing before the head of your order you were told that this could be an opportunity to expand the temples reach. For too long you have been isolationists, leaving yourselves removed from events across Faerun. With more clear evidence of events transpiring in the north year old rumours of followers of Grumbar showing interest in the north now seem to concern the head of your order greatly. They have tasked you with traveling to Icewind Dale to see what is unfolding yourself. You left shortly thereafter, taking only the minimal supplies needed for such a long journey.~
+@721=~A monk that worships Akadi~
+
+@722=~Speed of the Wind~
+@723=~Speed of the Wind
+
+For the next 3 rounds this ability doubles the monks normal walking speed. Other movement-altering effects, such as Haste and Slow, cannot affect the caster while this spell is in effect. Chinook Charge may not be active while this ability is in effect.~
+
+@724=~Blast of Wind~
+@725=~Blast of Wind
+
+This ability does 2d6 cold damage and knocks the target and anyone near them backwards. It also stuns them for 1 round. This ability does not work against large creatures.~
+
+@726=~Chinook Charge~
+@727=~Chinook Charge
+
+Through intense training a monk can learn to utilize the air and winds to increase their speed and attacks during a single round. At level 13 this sets a monks attacks to 6 attacks per round. This increases by 2 attacks per round every 4 levels thereafter, reaching a maximum of 10 at level 21.
+
+Speed of the Wind may not be active while this ability is in effect.~
+
+
+//Monk of the Shining Hand
+
+@728=~monk of the shining hand~
+@729=~Monk of the Shining Hand~
+@730=~MONK OF THE SHINING HAND: The Shining Hand is one of the oldest monk orders of Amn, mixing faith in Azuth, and the practice of wizardry with monastic devotions. Amn's crackdown on the practice of wizardry has sent some Shining Hand groups underground and sent others out into the wider world.
+
+Advantages:
+
+- Level 2: Can cast the Fists of Spells once per day. Gets an additional use once every four levels.
+
+FIST OF SPELLS:
+
+When this ability is activated the Monk channels <PRO_HISHER> magic into <PRO_HISHER> unarmed attacks, turning <PRO_HISHER> fists into magic weapons that deal an additional 2 magic damage per hit for the next turn. This special ability automatically modifies normal attacks; no weapon-switching needs to be done.
+
+
+- Level 3: Gains 5 lore. Gains an additional 5 lore every three levels.
+
+- Level 5: Gains +3 to their save vs spells.
+
+- Level 10: Can cast Spell Deflection once per day.
+
+Disadvantages:
+
+- Cannot use Lay on Hands
+- Cannot use Stunning Blow
+- Cannot use Quivering Palm
+
+Restriction:
+
+- May only be a lawful alignment.
+- Must have at least 9 intelligence.~
+
+@731=~As a member of the Shining Hand you have been tasked with traveling the realms in search of unique magical items and spells. The Lord of Spells sees value in the preservation of magical knowledge, and it is through his servants that its survival is ensured.
+
+As an initiate in your order your experience is limited. As of late you have grown increasingly confident in your own abilities and looked forward to the day your order sent you in search of magical items.
+
+It was only a few days ago that you found yourself being called before the head of your order. Legends of magical items and powerful wizards in the northern reaches of Faerun have reached your temples doorstep. You have been tasked with traveling to Icewind Dale, a remote region far to the north-west, to find and return any powerful magical items you may find in this remote place. Though it is unclear if the head of your order had any specific artifacts in mind you gladly accepted this challenge. With minimal gear and supplies you now head for the small fishing village of Easthaven, hoping in the end to find the items your masters seek.~
+@732=~A monk who worships Azuth.~
+
+@733=~Fist of Spells~
+@734=~Fist of Spells
+
+When this ability is activated the Monk channels <PRO_HISHER> magic into <PRO_HISHER> unarmed attacks, turning <PRO_HISHER> fists into magic weapons that deal an additional 2 magic damage per hit for the next turn. This special ability automatically modifies normal attacks; no weapon-switching needs to be done.~
+
+@735=~Spell Deflection~
+@736=~Spell Deflection
+(Abjuration)
+
+Range: 0
+Duration: 3 rounds/level
+Casting Time: 3
+Area of Effect: The caster
+Saving Throw: None
+
+This powerful abjuration spell causes any spells cast against the monk to be absorbed and consumed. This affects a total of 10 spell levels—including spells cast from scrolls and innate spell-like abilities—but excludes area effects that are not centered directly upon the wizard and area effects that are stationary, such as Cloudkill and Stinking Cloud.
+
+As long as there are levels remaining, the spell will be absorbed. For example, if there is only 1 level left and a 3rd-level spell is cast at the monk, the spell will be absorbed while canceling the spell deflection.
+
+This spell will not protect the caster from Dispel Magic, but it will not be dispelled by Dispel Magic either.~
+
+
+@737=~monk of the weeping friars~
+@738=~Monk of the Weeping Friars~
+@739=~MONK OF THE WEEPING FRIARS: The Weeping Friars are an informal order of monks known throughout most of the Savage Frontier. They claimed to believe there to be only a finite amount of pain and suffering in the world and that if they take on someone else's burden it will ultimately lessen suffering in the world. They offer to undergo suffering on a person's behalf in exchange for money or items, usually taking the form of alcohol or trinkets. The Weeping Friars are considered to be a fringe order by mainstram Ilmatari, with even some even claiming them to be heretics for refusing to take the vow of Purity.
+
+Advantages:
+
+- Level 1: Gets +2 to saving throws vs death
+- Level 1: Gains an additional casting of Lay on Hands. Lay on Hands cast by this monk can also work on others.
+- Level 5: Can cast Favor of Ilmater once per day.
+- Level 13: Can cast Entropy Shield once per day.
+
+Disadvantages:
+
+- Does not gain Stunning Blow or Quivering Palm.
+
+
+Restrictions:
+
+- Must be Lawful Good or Lawful Neutral.
+- Must have 16 constitution.~
+
+@740=~As an initiate in your order you have often found yourself assisting those in greatest need. Monks of the Weeping Friars believe that by taking on the suffering of others the overall suffering in the world diminishes.
+
+Helping those few that your order has found has been rewarding, though you however seek a greater challenge. The head of your order has long since recognized this and recently called you before him with an important task at hand. 
+
+You were travel to Icewind Dale, a region whose people are beset by strife and suffering. There you will challenge whatever evil awaits. What that might be your master is unsure, however enough word of these troubles has reached his ears for him to seem noticeably concerned about it.~
+@741=~A monk who worships ilmater and wants to absorb the suffering of others.~
+
+
+@742=~Lay on Hands~
+@743=~Lay On Hands
+
+The monk channels positive energy to heal the touched creature, restoring 2 Hit Points per monk level. This ability has no effect on undead, constructs, or extraplanar creatures.~
+
+//Zealot of the Written Word
+
+@744=~zealot of the written word~
+@745=~Zealot of the Written Word~
+@746=~ZEALOT OF THE WRITTEN WORD: Also sometimes called Carmendines after their (long-dead) founder. These monks are followers of Deneir. They spend their time recording information, developing their theses on various forms of unarmed combat, earning money for their church (usually by making books, paper, and ink, or working as scribes), and even accompanying clerics of the faith on quests. When traveling, a Zealot normally carries a small book or bundle of scrolls showing the next martial arts form she intends to master, all of which have complex and flowery names.
+
+Advantages:
+
+ 	Level 3: Gains 10 lore. Gains an additional 10 lore every three levels.
+ 	Level 5: Can cast Clairvoyance once per day.
+ 	Level 7: Can cast Farsight once per day.
+ 	Level 13: Can cast Scribe Scrolls once per day.
+
+SCRIBE SCROLLS
+
+This ability allows a monk to create priest scrolls. The scrolls that the monk can create are randomly chosen from the following list:
+1) Protection from Acid
+2) Protection from Cold
+3) Protection from Electricity
+4) Protection from Fire
+5) Protection from Magic
+6) Protection from Poison
+7) Protection from Undead
+8) Raise Dead
+9) Heal
+10) Resurrection
+
+
+Disadvantages:
+
+- Cannot use Stunning Blow.
+- Cannot use Quivering Palm.
+
+
+Restrictions:
+
+- Must be lawful good.
+- Must have at least 9 intelligence.~
+
+@747=~You spent much of your early years engrossed in the tomes found within your monasteries libraries. At the time the collection seemed endless, though as you have grown older you have realized that it featured only a small portion of the knowledge written regarding the realms.
+
+While the rest of your order are content with remaining in the monastery to learn and protect existing holdings you have long since sought to leave in order to search the realms for other rare books and catalogue your own discoveries.
+
+Having read of the tombs and caverns of the Spine of the World you have always wondered what lost knowledge could be found within them. Few adventurers in the north would bother to keep books and those that would likely would have simply sold the ones they had acquired rather than keeping them for themselves. 
+
+With that in mind you've set forth for Icewind Dale, quill and parchment at your side. What mysteries and wonders lay within this frozen wasteland you do not fully know, though the adventure itself will undoubtedly be its own reward.~
+@748=~A monk follower of Deneir.~
+
+
+//Thief kits
+
+//Mouseburglar
+
+@749=~mouseburglar~
+@750=~Mouseburglar~
+@751=~MOUSEBURGLAR: These stealthy characters are consummate spies and sneak thieves who in some ways behave more like halflings than the average gnome thief. Striving to be as quiet as mice, they infiltrate lairs, mansions, or enemy camps. They rely upon secrecy, disguise, and silence in order to conceal their presence. Preferring very much to flee rather than fight, they consider a truly successful mission one which is concluded before the victim even learns that the gnome has been there.
+
+Advantages:
+
+- Can become specialized in shortbows, daggers, slings, darts, and short swords.
+
+- Level 1: Gains +5% towards Move Silently. This repeats every 3 levels up to a maximum of +50% at level 28.
+- Level 2: Gains +5% towards Hide in Shadows. This repeats every 3 levels up to a maximum of +50% at level 29.
+- Level 3: Gains +5% towards Find Traps. This repeats every 3 levels up to a maximum of +50% at level 30.
+
+
+Disadvantages:
+
+- Gets -1 to their Thac0 when using melee weapons.
+- Cannot become proficient in crossbows.
+
+Restrictions:
+
+- Must be a gnome.
+- Must have at least 13 dexterity and 13 intelligence.~
+
+@752=~You grew up on the streets of Athkatla, earning your living in whatever way was necessary. As an orphan few cared about what business you got yourself into and few amongst those that did could have stopped you anyways.
+
+In time you gained a particular affinity for picking out targets and stealing valuable merchandise. As you've grown older you are now less quick on your feet, but far more experienced, and as a result you almost always remain unnoticed by your target. Today there are few treasures in the city that could elude your grasp.
+
+Your most recent job was a critical success. The diamond that you stole was surely worth a small fortune and the employers that you stole it for could not be happier with their latest acquisition.
+
+As you gently slid down the rafters and quietly fell onto the cobblestone beneath your living quarters you couldn't help but feel gratified at your recent success. Your target, a wealthy businessman, was none the wiser about your activities.
+
+Still, you have felt recently that you could be something much greater than you are now. Hearing tales of the great treasures to be found in the north, and having no interest in remaining in Athkatla, you have set your sights on travelling to Icewind Dale. You hope that upon arrival in one of the Ten Towns you will learn more about what opportunities await you in this unforgiving wasteland.~
+@753=~A gnome thief who excels at stealing things and not getting caught.~
+
+//Pest Controller
+@754=~pest controller~
+@755=~Pest Controller~
+@756=~PEST CONTROLLER: Though there are dwarven thieves in the realms that engage in practices of theft, many dwarf thieves actually seek to improve their mechanical knowledge instead of their sleight of hand. Pest controllers for instance are experts at removing rats, carrion crawlers, ettercaps, spiders, beetles, kobolds, goblins, and other pests from strongholds and homes. They typically work as part of larger guilds, taking on apprentices as needed. They are also experts on improving an areas defensibility by laying elaborate traps, and are often hired for such a purpose.
+
+
+Advantages:
+
+- You gain access to an additional use of Set Snare every four levels instead of every five levels.
+- Starts with +5 towards Move Silently, +5 towards Find Traps, and +10 towards Set Traps.
+- Level 1: You gain access to Pest Snare. You can additional uses of this every 5 levels.
+
+PEST SNARE
+
+Over numerous centuries Pest Controllers have passed on the technique for making these traps to their apprentices. Like traditional traps this trap is designed so that it can strike a target from a distance. However, its teeth and mechanisms make it harmless against larger creatures. Its damage and effects vary by your characters level.
+
+Level 1: 5 missile and 10 crushing damage to small and medium sized creatures.
+Level 11: 10 missile and 20 crushing damage to small and medium sized creatures.
+Level 16: 10 missile and 25 crushing damage to small and medium sized creatures. Will slow any target affected by it for three rounds.
+Level 21: 15 missile and 25 crushing damage to small and medium sized creatures. Will slay a target affected by it if they fail a save vs death (with a +2 bonus). Creatures that survive are slowed for three rounds.
+
+
+
+Disadvantages:
+
+- May only distribute 15 points each level towards thieving skills.
+- Starts with -10 towards Pick Pocket.
+
+Restrictions:
+
+- Cannot have higher than 14 charisma.~
+
+@757=~You grew up in a dilapidated part of the human city of Waterdeep. For many years you gained your greatest degree of education from what broken trinkets the humans of your city had thrown aside. Whether that was children toys, mechanical parts, and even the odd broken trap or two. From these you gained an understanding of mechanics, a knowledge that proved to be quite handy given your current career.
+
+At the age of 18 you signed up at the local Pest Controllers guild, hoping by doing so that you would earn some extra coin to help your struggling family. Dwarven Pest Controllers are simply the finest craftsman for handling pests, be they goblins, carrion crawlers, or even giant spiders. They are also frequently hired by wealthy lords and noblemen looking to secure their holds against invaders. 
+
+Since joining your guild you have proven yourself to be a natural at the craft. Guided by your master you have gained a greater understanding of what your profession involves.
+
+Seeing your potential himself your master has decided that you need real world experience before you can progress farther in your guild. Having himself heard tales of the great monsters and beasts of the north your master has tasked you with travelling to that desolate region. There you shall test your abilities and master your craft. ~
+@758=~An expert trap layer~
+
+@759=~Pest Snare~
+@760=~Pest Snare
+
+Over numerous centuries Pest Controllers have passed on the technique for making these traps to their apprentices. Like traditional traps this trap is designed so that it can strike a target from a distance. However, its teeth and mechanisms make it harmless against larger creatures. Its damage and effects vary by your characters level.
+
+Level 1: 5 missile and 10 crushing damage to small and medium sized creatures.
+Level 11: 10 missile and 20 crushing damage to small and medium sized creatures.
+Level 16: 10 missile and 25 crushing damage to small and medium sized creatures. Will slow any target affected by it for three rounds.
+Level 21: 15 missile and 25 crushing damage to small and medium sized creatures. Will slay a target affected by it if they fail a save vs death (with a +2 bonus). Creatures that survive are slowed for three rounds.~
+
+
+@761=~scout~
+@762=~Scout~
+@763=~SCOUT: A Scout is a thief, usually solitary, who operates in a wilderness setting. Besides working as a guide, spy, or saboteur for hire in the wilderness, many Scouts are involved in such illicit activities as poaching. Though they lack the "silly ethics" of the ranger class they are not prohibited from being good, and in many ways they are more dependable than thieves in general. In fact their rugged individualism and harsh judgment often endears them to adventurers.
+
+Advantages:
+
+- They get +15 to Hide in Shadows and Move Silently.
+- Once per round Scouts can attempt to make a Surprise Attack against an opponent.
+
+SURPRISE ATTACK
+
+Once per round Scouts can attempt to make a surprise attack against an opponent. They only have a 1/6 chance of successfully positioning themselves to make this surprise attack. If they are successful they are granted an additional +4 Thac0 and an additional attack per round for the next round (success is represented by a Called Shot icon). There are no penalties for not being successful.
+
+- Level 3: They can track like rangers.
+
+Disadvantages:
+
+- The get -5 to Open Locks, Find Traps, Detect Illusion, Set Traps, and Pickpocket.
+- They can only distribute 20 points each level.~
+
+@764=~You lived most of your life as a wanderer, moving from village to village, forest to forest as needed. The result of this was that you spent much of your earlier years playing in the wilderness, a fact that has helped you adapt yourself to the environments around you.
+
+Versatility is your strong suit. Today you might serve as a scout for an advancing army, while tomorrow you may serve as a saboteur fighting back. You take work as needed, with only your personal moral compass to guide you on whom you will serve and the acts you agree to commit. You are however a rogue by nature. Illicit activity is second nature to you, regardless of whatever form that might take.
+
+In your travels you have heard much about the north. Having heard stories of the challenges and trials of those who have travelled there you have become increasingly curious about the region. Staff in hand you now travel to Icewind Dale, a remote region of the north, hoping to see for yourself the challenges it offers adventurers.~
+@765=~A thief that scouts and frequently lives in the wilderness.~
+
+@766=~Surprise Attack~
+@767=~Surprise Attack
+
+Once per round Scouts can attempt to make a surprise attack against an opponent. They only have a 1/6 chance of successfully positioning themselves to make this surprise attack. If they are successful they are granted an additional +4 Thac0 and an additional attack per round for the next round (success is represented by a Called Shot icon). There are no penalties for not being successful.~
+
+
+@768=~tumbler~
+@769=~Tumbler~
+@770=~TUMBLER: The Tumbler is a gnome who employs creative and vigorous means to get into places, meanwhile performing tricks and feats for the edification of his or her fellow villagers. Adept at climbing and falling, the Tumbler can walk a rope stretched between two high points, scale a sheer surface, and bob and evade his or her way through deadly combat--often rolling right between a larger opponent's legs!
+
+Advantages:
+
+- Level 1: Can use Tumble once per day. Gains additional uses of this ability once every three levels.
+
+TUMBLE
+
+When activated the Tumbler gains a -6 AC bonus for the next round. This cannot be used in conjunction with Climb Walls.
+
+- Level 3: Can use Climb Walls once per day. Gains additional uses of this ability once every four levels.
+
+CLIMB WALLS
+
+The Tumbler can climb walls or any vertical structure or rock formation in an effort to avoid an enemy. For the first round the ability is active the Tumbler is unable to attack, as they are instead looking for a ledge to attack back from. During the five rounds this ability is active the Tumbler's AC is improved by 4 and ranged attacks made by them get a bonus of -4 Thac0. This cannot be used in conjunction with Tumble.
+
+Disadvantages:
+
+- They start with a 15 point penalty to their Open Locks skill.
+
+Restrictions:
+
+- Must be a gnome
+- Must have a dexterity of at least 14.~
+
+@771=~You learned the art of tumbling early in life. As a child you were often running around and avoiding the bullying efforts of your peers. Climbing walls and avoidance became necessary for your existence, and since then you have only improved with these talents.
+
+Years of practice lead you to an interest in acrobatics. When a travelling circus came to town you took this as a chance to show them what you were made of, and though you were still young at the time the circus took you in and expanded on your teachings.
+
+You have since moved away from working in the circus, though you remember your time there fondly. It was only recently that you were spending much of your time engaging in acts of petty thievery. Thievings guilds in larger cities pay handsomely for thieves who show remarkable talent at climbing walls, a fact that attracted you to your current profession. You have since become a fairly capable thief, though you admit you still have much to learn about the art.
+
+Ideally you would have preferred to improve your thieving abilities while stealing from valuable targets, however your guild leader apparently had something else in mind. Rumours swirl about hidden treasures in Icewind Dale, a far away and remote northern region of Faerun.
+
+You have been tasked by your guild leader to travel to this region. What you will find there you are unsure, though you do look forward to testing your abilities against whatever you do encounter.~
+@772=~a thief who can climb walls and tumble~
+
+@773=~Tumble~
+@774=~When activated the Tumbler gains a -6 AC bonus for the next round. This cannot be used in conjunction with Climb Walls.~
+
+@775=~Climb Walls~
+@776=~Climb Walls
+
+The Tumbler can climb walls or any vertical structure or rock formation in an effort to avoid an enemy. For the first round the ability is active the Tumbler is unable to attack, as they are instead looking for a ledge to attack back from. During the five rounds this ability is active the Tumbler's AC is improved by 4 and ranged attacks made by them get a bonus of -4 Thac0. This cannot be used in conjunction with Tumble.~
+
+
+@777=~vermin slayer~
+@778=~Vermin Slayer~
+@779=~VERMIN SLAYER: The Vermin Slayer is a highly skilled specialist who enters the tunnel systems of monsters such as kobolds and goblins with the intention of eradicating them. Vermin Slayers are also adept at negotiating the constricted passages created by giant rats, centipedes, and other pests and vermin. They are used to fighting in confined spaces and are experts at hiding in shadows, where they wait to surprise their prey. Vermin Slayers are similar to Pest Controllers, but where a Pest Controller uses traps to catch his prey, Vermin Slayers actively hunt victims with light crossbows and other assorted weapons.
+
+Advantages:
+
+- Can specialize in any weapon or weapon style (*** for Two-Weapon Style), receives specialisation bonuses like a fighter would, gets level attack per round bonuses like a fighter (at levels 7 and 13), and gets only a +2 penalty to Thac0 when using a weapon without proficiency.
+- Gets +1 Thac0 and +2 damage when attacking carrion crawlers, spiders, beetles, kobolds, and goblins.
+- Gets +5% Hide in Shadows, +5% Move Silently, and +5% Find Traps 
+- Level 2: Gets a +1 bonus to Thac0. Gets this bonus every 2 levels, to a maximum of +5 Thac0 at level 10.
+- Gets hit dice of 1d8. After level 10 it gains 3 hit points a level.
+
+Disadvantages:
+
+- Gets -10 to pickpocket
+- Can only distribute 15 thief points every level.
+- You only get access to a new use of Set Snare every 6 levels (levels 1, 7, 13, etc).
+- Backstab multiplier, sneak attacks, and critical strikes progress more slowly than an unkitted Thief:
+
+Backstab multiplier
+  Level 1-6: x2
+  Level 7-10: x3
+  Level 11-14: x4
+  Level 15+: x5
+
+Sneak attacks (if 3E Sneak Attack is enabled):
+  Level 1-5: +1d6
+  Level 6-9: +2d6
+  Level 10-13: +3d6
+  Level 14-17: +4d6
+  Level 18-21: +5d6
+  Level 22-25: +6d6
+  Level 26-29: +7d6
+  Level 30: +8d6
+
+
+Crippling strikes (if 3E Sneak Attack is enabled):
+  Level 7-10: -1 to target's hit and damage rolls
+  Level 11-14: -2 to target's hit and damage rolls
+  Level 15-18: -3 to target's hit and damage rolls
+  Level 19-22: -4 to target's hit and damage rolls
+  Level 23-26: -5 to target's hit and damage rolls
+  Level 27-30: -6 to target's hit and damage rolls
+
+
+Restrictions:
+
+- Must be a dwarf.
+- Must have at least 14 strength and 14 dexterity.~
+
+@780=~You grew up in a small dwarven community found deep within a mountainside. In the years you spent there the constant encounters you had with giant spiders, goblins, and other creatures instilled in you a strong understanding of the threat these creatures can pose. As you grew older you began to realize that your burgeoning skills in combat could be more useful elsewhere.
+
+You set forth for the surface and travelled to the city of Waterdeep. There you joined a local guild dedicated to removing pests from the property of their clients. As a member of this guild you gained the respect and admiration of your peers, even if you often found yourself lacking their resourcefulness as thieves.
+
+Your efforts at improving your own thieves skills have been long and marginally rewarding. Seeing your potential however the leader of your guild recently called for you.
+
+You were tasked with travelling to Icewind Dale, a region of Faerun located far to the north from your present location in Waterdeep. Your guild leader has viewed events transpiring there as an opportunity to expand their influence. While you understand the petty concerns of your guild what really excites you about this journey is the opportunity to test your own capabilities in battle. You now travel to the village of Easthaven, staff in hand, hoping to make a name for yourself in this brutal climate.~
+@781=~Dwarf thief who fights vermin and pests~
+
+
+//Paladin and Cleric kits
+
+//Knight of the Mystic Fire (Divinate of Mystra)
+
+@115=~knight of the mystic fire~
+@116=~Knight of the Mystic Fire~
+@117=~KNIGHT OF THE MYSTIC FIRE: The Knights of the Mystic Fire are an order of knights that work in the service of Mystra, the Lady of Spells. Mystra herself seeks to preserve the stability of the Weave, and has tasked her clergy and paladins to act with this in mind. As those who represent some of her most faithful warriors the Knights of the Mystic Fire are frequently sent out throughout the realms to investigate magic users as needed.
+
+Advantages
+
+- Level 1: Gets +2 to their Save vs Spells.
+- Level 5: They gain the ability to cast Dispel Magic as an innate ability once per day.
+- Level 6: They can cast Magic Missiles as a 1st level priest spell.
+- Level 9: Their casting times are reduced by 3.
+- Level 12: They can cast Minor Sequencer as a 3rd level cleric spell.
+
+
+Disadvantages
+
+- Cannot use Cure Disease, Protection from Evil, or Smite Evil
+- Does not gain Divine Courage
+
+Restrictions
+
+- Must be Lawful Neutral~
+
+@118=~As a the child of mages magic has always played a significant role in your life. At a young age your father in particular took an active interest in teaching it to you, though after much effort it never really sunk in. It wasn't however until you were older that your interest in it cemented, though not in a way your parents expected.
+
+Since then your faith has grown deeper and with it your passion both for magic and life. While others in your family have since gone on to become great mages, you yourself have chosen a different path. 
+
+Instead you have chosen to become a Knight of the Mystic Fire, the sword arm of those who seek to maintain the Weave's stability. Mystra herself often relies upon followers to handle sources of potential instability, wherever they may be found. This requires a life of duty and hardship, one which you have since gladly accepted to be in service of your god.
+
+It therefore was not surprising when you found yourself summoned by the high priest of your temple. Rumours of sorcerers powerful enough to tremble mountains, wizards who challenge the divide between worlds, and wild mages who ignore the Weave entirely have come through messengers to your temples doorstep. While these rumours perhaps may be nothing the high priest of your order has decided nevertheless to send you to investigate them. You now travel to Icewind Dale, staff in hand, ready to pit yourself against whatever magic is thrown in your way.~
+@119=~Paladin who has Mystra to back him up~
+
+
+@120=~Magic Missile~
+@121=~Magic Missile
+(Evocation)
+
+Level: 1
+Range: Visual range of the caster
+Duration: Instant
+Casting Time: 1
+Area of Effect: 1 creature
+Saving Throw: None
+
+Casting Magic Missile, one of the most popular 1st-level spells, creates up to five missiles of magical energy that dart forth from the paladin's fingertips and unerringly strike their target, which must be a creature of some sort. Each missile inflicts 1d4+1 points of damage. For every two extra levels of experience after level 6, the paladin gains an additional missile–<PRO_HESHE> has two at 8th level, three at 10th level, four at 12th level, and a maximum of five missiles at 14th level.~
+
+@122=~Minor Sequencer~
+@123=~Minor Sequencer
+(Invocation/Evocation)
+
+Level: 4
+Range: 0
+Duration: Permanent until activated
+Casting Time: 9
+Area of Effect: Special
+Saving Throw: None
+
+This spell allows the paladin to store two spells and activate them both at the same time from <PRO_HISHER> Special Abilities menu. Both spells must be of 2nd level or lower. To create a sequencer, the paladin must memorize not only Minor Sequencer but the spells <PRO_HESHE> intends to store in it. After casting Minor Sequencer, the player will be prompted to choose the sequenced spells from those <PRO_HESHE> has memorized.
+
+A sequencer lasts until activated and, once used, releases its spells immediately (no casting time). The Special Abilities icon also disappears until the next time a sequencer is formed. The paladin can possess only one Minor Sequencer at a time, and it cannot be given to other characters.~
+
+
+
+// Walker of the Forest (Divinate of Mielikki)
+@124=~walker of the forest~
+@125=~Walker of the Forest~
+@126=~WALKER OF THE FOREST: Those who serve Mielikki typically are Druids, Rangers, or Clerics. However, despite her limited power she does maintain a small number of paladin followers. Though all her followers are known to be walkers of the forest, her paladins are rare in number to be noteworthy. These soldiers collectively train extensively against the challenges that would otherwise impede most travelers in the wild and as a result they are immune to most natural impediments. Though limited in what she can grant them Mielikki also has seen to grant her paladins access to a few additional spells.
+
+Advantages:
+
+- Level 1: Immune to Entangle and Web.
+- Level 9: Becomes immune to Spike Growth.
+- Can cast Entangle at level 6 (1st level), Web at level 9 (2nd level), and Summon Insects at level 12 (3rd level) out of your priest spellbook.
+
+Disadvantages:
+
+- Cannot cast Animate Dead or Slay Living 
+- Does not benefit from Divine Courage
+
+Restrictions:
+May be Lawful Good, Neutral Good, Chaotic Good, or True Neutral.~
+
+@127=~Those who serve Mielekki often find themselves being sent across the realms with the aim of protecting nature from acts of savagery. As one of her paladins you continue to strive to spread good in the world, teaching in the process the value of nature even in the harshest climates.
+
+Though admittedly it is unusual that a paladin would take Mielekki as a patron, especially given that most who serve the Lady of the Forest are Rangers, Druids, or Clerics, you have always found yourself attached to her more than any of the other nature gods. Above all else you value nature, though you still personally place enough importance in civilization and formal church structure to never have favoured becoming a ranger yourself. As it stands your temple has only a small number of regular worshipers, though in time you hope to see this change.
+
+What has most recently concerned you is the many tales of strife and death found in the north. Goblins, orcs, and bugbear raids are becoming increasingly prevalent, and you have asked the head of your temple for permission to travel to these distant lands to rid them of these menaces.
+
+With civilization in the north gradually expanding you have also sensed an opportunity to spread to the towns and villages that make up Icewind Dale the value in the worship of Mielekki. For too long the inhabitants of the north have lived in constant fear of Auril and Talos, and it is your hope that you can render assistance for them with what little you have to offer. Mielekki is not by any means a powerful god, but what little she has granted you will have to do on this journey. Weapon in hand you travel for the small fishing village of Easthaven with the hope of spreading a positive message to a beleaguered people.~
+
+@128=~A well trained paladin who watches over nature and follows Mielekki~
+
+
+
+//Holy Warrior of Suffering     (ilmater)
+
+@129=~holy warrior of suffering~
+@130=~Holy Warrior of Suffering~
+@131=~HOLY WARRIOR OF SUFFERING: Holy Warriors of Suffering are widely known for their willingness to put themselves in harms way to protect the downtrodden, the poor, and those who suffer. Though they are most often found living among the poorer denizens of Faerun's cities they can be found any place in the realms where there is suffering.
+
+
+Advantages:
+
+- Level 1: Gets +4 to saving throws vs death.
+- Level 1: Gains an additional casting of Lay on Hands.
+- Level 5: Can cast Favor of Ilmater once per day.
+- Level 7: Can cast Champion's Strength once per day.
+- Level 9: Can cast Entropy Shield once per day.
+
+
+Disadvantages:
+
+- Cannot cast Detect Evil or Smite Evil.
+- Is not granted Divine Courage.
+
+
+Restrictions:
+
+- Must be Lawful Good, Neutral Good, Chaotic Good, or Lawful Neutral.~
+
+@132=~The need you feel to assist others in suffering comes as much from your own experiences in life as it does from your respect for Ilmater. As a child your village faced frequent raids by bandits, mainly those looking for gold jewelry and other trinkets. In the eyes of your fellow villagers you saw the despair, loss of hope, and devastation that you now work to stop.
+
+Until only a few days ago you resided in the Thentia, a city found along the northern coasts of the Moonsea. Though not nearly the size of Baldur's Gate or Waterdeep it is a city that still has its fair share of problems. Helping the sick, feeding and clothing the poor, and assisting the displaced are tasks that you and your order have often assisted in, particularly in the last few decades following the rise of Manshoon and the Zhentarim. Many of those who are least fortunate have been making their way east away from Zhentil's Keep, and Thentia can scarcely hold them all.
+
+Though you are a young paladin your efforts in the city have not gone unnoticed. You were recently called before the head of your order.
+
+The grand master of your order complimented you on your efforts in the city. Apparently, however, your order has received word of problems in Icewind Dale, a region far removed from the troubles that now plague Thentia. For reasons you don't quite understand your master has tasked you to travel there, stating that he believed that your presence could be of great benefit to relieving suffering in the region. 
+
+Considering that the messages your temple has received are vague and sometimes even cryptic, simply saying in some cases that troubles are brewing, you have a degree of skepticism about your mission. With that in mind you have accepted your duty to help any in need and you travel light on your way to Icewind Dale.~
+@133=~A well trained paladin who watches over the suffering and serves Ilmater~
+
+@134=~Favor of Ilmater~
+@135=~Favor of Ilmater
+(Necromancy)
+
+Level: 3
+Sphere: Necromantic, Protection
+Range: 30 ft.
+Duration: Instant
+Casting Time: 1
+Area of Effect: 1 creature
+Saving Throw: None
+
+By invoking this spell, the caster switches <PRO_HISHER> own life force with that of the recipient, exchanging all physical injuries. The spell will only function if the caster has more Hit Points than the target before the switch is attempted. This switch is permanent until the caster uses normal methods to heal the damage. The exchange can be done from a distance so long as the spell range is not exceeded. Only the Hit Points are exchanged; the caster cannot take on other conditions from the target such as disease, poison, intoxication, and similar afflictions. 
+
+This spell can only be cast by non-evil characters. It has no effect on undead, constructs, or extraplanar creatures.~
+
+
+@136=~Entropy Shield~
+@137=~Entropy Shield
+(Abjuration)
+
+Level: 6
+Sphere: Protection
+Range: 0
+Duration: 1 round/level
+Casting Time: 1
+Area of Effect: The caster
+Saving Throw: None
+
+When cast, this spell surrounds the caster with a defensive maelstrom of energy that blocks or deflects many attacks. This gives the paladin a +6 bonus to Armor Class, a +2 bonus to Saving Throws, and +50% resistance to electricity, fire, cold, and acid. The paladin is also immune to Flamestrike and all missile-based attacks, including missiles created by spells such as Magic Missile.~
+
+//Hivemaster
+
+@138=~hivemaster~
+@139=~Hivemaster~
+@140=~HIVEMASTER: The Hivemaster druid lives to foster Insectoid and Arachnid life wherever it exists. The approach a druid takes in this regard can vary considerably and many consider them to be enigmatic. Still, Hivemasters have an unusual affinity towards insects that changes their approach to any given battle.
+
+Advantages: 
+
+- Level 1: Has immunity to poison.
+- Level 9: Gains immunity to Web
+- Learns (and therefore can memorize) Summon Insects, Giant Insect, Insect Plague, and Creeping Doom as though you were three levels higher as a druid. This means that you can cast Summon Insects as a 1st level spell once you hit level 2, you can cast Giant Insect as a 2nd level spell once you hit level 4, you can cast Insect Plague as a 3rd level spell once you hit level 6, and you can cast Creeping Doom as a 6th level spell once you hit level 11. You cannot however cast them at their normal level.
+
+Disadvantages:
+
+- Can only shapeshift into a Boring Beetle.
+- Cannot wear greater than leather armor.~
+
+@141=~You spent much of your childhood outdoors; scurrying about in the dirt, picking up various insects, and largely living a life as far removed from the civilized surroundings you found yourself in as much as possible. The bustling city of Waterdeep however was no place for those looking to commune with nature, a fact that became increasingly apparent to you as you became older. As you grew older you increasingly found yourself interested in the thought of leaving the city in order to study the worlds wonders on your own. From this it was only a natural progression that you would shortly thereafter find yourself as an initiate in a druid grove.
+
+Though the study and protection of nature as a whole interests you, and you value the importance of preserving the balance, in your time as a member of your druid circle you've gained particular affinity for working with insects. Not only has this has significantly affected your spellcasting and strategy, it has also affected your worldview and your interest in seeing more of the wider world and what it has to offer. 
+
+Not surprisingly, there are times when being an initiate in a small grove near the Misty Forest comes across as being rather limiting. The other druids in your grove don't quite have the passion that you have for insects, and there are times when you wish you were experienced enough to found your own grove. This hasn't stopped you from trying to read nearly every insect related book you could find, hoping to expand your knowledge and understanding in the process. 
+
+A few months ago tales began spreading to your druid grove of trouble brewing in the north. At the time your druid grove's elders were reluctant to become involved, especially given what little was really known. However, a recent discovery by you of a large nest of rare Northern Horned Beetles near your grove has peaked your interest in the region. Normally these beetles stay within the icy caverns of the Spine of the World and seeing them appear this far south has made you concerned about the status of the balance in the region. In a passionate speech you explained to your druid elders that whatever was driving them south must be stopped. Having since obtained their permission you now travel northward to investigate these troubles yourself.~
+
+@142=~A druid that likes insects more than most druids~
+
+@143=~Summon Insects~
+@144=~Summon Insects
+(Conjuration/Summoning)
+
+Level: 1
+Sphere: Animal
+Range: 60 ft.
+Duration: 7 rounds
+Casting Time: 9
+Area of Effect: 1 creature
+Saving Throw: Neg.
+
+The Summon Insects spell attracts a cloud or swarm of normal insects to attack one enemy of the caster. This swarm gathers at a point chosen by the caster within the spell's range and attacks any single creature the caster points to. A successful Save vs. Breath Weapon with a -4 penalty negates the effects; otherwise, the victim takes 1 point of damage every 2 seconds for the duration of the spell. Moreover, the victim fights with a -2 penalty to <PRO_HISHER> attack roll and a -2 penalty to <PRO_HISHER> Armor Class. The swarm will repeatedly bite the target, making it very difficult to cast spells (50% chance of spell failure).
+
+Undead, constructs, and elementals are unaffected by the swarm.~
+
+@145=~Giant Insect~
+@146=~Giant Insect
+(Alteration)
+
+Level: 2
+Sphere: Animal
+Range: Visual range of the caster
+Duration: 8 hours
+Casting Time: 7
+Area of Effect: Special
+Saving Throw: None
+
+This spell summons 2-3 boring beetles or bombardier beetles to the caster's side. The beetles will obey the caster until the spell expires or they are slain.~
+
+@147=~Insect Plague~
+@148=~Insect Plague
+(Conjuration/Summoning)
+
+Level: 3
+Sphere: Combat
+Range: Visual range of the caster
+Duration: 15 rounds
+Casting Time: 9
+Area of Effect: 29-ft. radius
+Saving Throw: None
+
+This spell summons a swarm of creeping, hopping, and flying insects. Creatures within the swarm suffer 1 Hit Point of damage every round and a 100% chance of spell failure. Additionally, creatures with 2 or fewer Hit Dice will immediately panic, while creatures with 3 to 5 Hit Dice must save vs. Spell to avoid the same fate.
+
+Undead, constructs, and elementals are unaffected by the swarm.~
+
+@149=~Creeping Doom~
+@150=~Creeping Doom
+(Conjuration/Summoning)
+
+Level: 6
+Sphere: Animal, Summoning
+Range: Visual range of the caster
+Duration: 1 turn
+Casting Time: 9
+Area of Effect: Special
+Saving Throw: None
+
+Creeping Doom summons masses of insects that will promptly spread out and attack the caster's enemies. The swarms are composed of various beetles, spiders, and other creatures, each of which will sting once and die–as a result, the swarm will generally kill any creature not immune to normal attacks before the swarm is destroyed.~
+
+
+
+
+
+//Cleric kits
+
+//Grumbar kit
+@1=~earthwalker of grumbar~
+@2=~Earthwalker of Grumbar~
+@3=~EARTHWALKER OF GRUMBAR: Though there are few clerics who still worship Grumbar those that remain are granted a handful of special spells from the Earthlord. Their task is to preserve stability and the status quo in the realms, organizing as necessary to stop the expansion of the churches of other powers. Their resistance to change is not limited only to other churches, and they have even been known to oppose changes in governments and organizations from time to time as well.
+
+
+Advantages:
+
+- Level 5: Can summon an 8HD earth elemental once each day. This improves to a 12 HD earth elemental at level 9 and a 16 HD earth elemental at level 13.
+- Gains the ability to cast Stoneskin (4th level), Spiked Stone (5th), and Conjure Earth Elemental (7th) out of your priest spellbook.
+
+Disadvantages:
+
+- Cannot cast Raise Dead, False Dawn, Aerial Servant, Resurrection, Energy Drain, and Greater Restoration.
+
+Restrictions:
+
+- Must be a gnome or dwarf.
+- Must be lawful good, lawful neutral, true neutral, or lawful evil.~
+
+
+@4=~Life as a priest of Grumbar has been a bit of a challenge. Few amongst those you travel with consider the Earthlord to be anything more than a minor god, and fewer still have any understanding of the intricacies of his worship.
+
+A high priest in your order has recently tasked you with venturing north to the Spine of the World to seek out and destroy any force that threatens to destabilize the region. The Earthlord himself is concerned over the changing direction of the region and hopes to see you bring it greater stability. Though you have worked with others from your temple on previous assignments this journey to the north is your first truly independent assignment. 
+
+Given the powerful earth elements that exist in the region, as well as your chance to prove yourself a capable cleric of your faith, you found yourself eager to accept the task. Without hesitation you agreed to make the pilgrimage. Shortly thereafter you embark on your journey to the distant North.~
+@5=~This is a priest of Grumbar. Lots of stone related spells, no air or sun spells allowed here!~
+
+
+//Summon Earth Elemental special ability
+@6=~Summon Earth Elemental~
+@7=~Summons an Earth Elemental whose strength depends on your level.
+  
+  Level 5: 8HD elemental
+  Level 9: 12HD elemental
+  Level 13: 16 HD elemental~
+  
+
+//Iceguardian of Ulutiu
+
+@8=~iceguardian of ulutiu~
+@9=~Iceguardian of Ulutiu~
+@10=~ICEGUARDIAN OF ULUTIU: Iceguardians of Ulutiu are as much community leaders as they are warriors and clerics. Their communion with nature and the animals that they hunt is strong and like druids high level Iceguardians have even been known to reach the point of being able to turn into these animals as needed. Though he is in a deep slumber Ulutiu still continues to protect his most trusted servants with immunity to the cold, as well as access to a number of additional water and ice spells.
+
+Advantages:
+
+- Level 1: Immunity to Cold
+- Level 5: Polar Fury is added as an innate ability that can be activated.
+
+POLAR FURY
+
+For 1 turn the Iceguardian calls upon a totem bears beast power to grant himself bear claws. This sets their strength to 18/72 and gives them 2 attacks per round. Each of their attacks now do 1d10 damage and each attack has a 15% chance per hit of doing an additional 3d6 damage.
+
+
+- Level 10: Gains the ability to transform into the polar bear druid form once per day.
+- Can get up to 20 wisdom at character creation.
+- Has access to Chill Touch, Snilloc's Snowball Swarm, Protection from Cold, Cloudburst, Icelance, Ice Storm, Smashing Wave, Cone of Cold, Conjure Water Elemental, Otiluke's Freezing Sphere, and Mist of Eldath.
+
+
+Disadvantages:
+
+- Must be human
+- Cannot use Flame Strike and False Dawn,
+- Cannot cast Cure Critical Wounds, Mass Cure Light Wounds, Mass Cause Light Wounds, Heal, and Regeneration.
+
+Restrictions:
+
+- Requires a minimum of 12 strength and 14 wisdom.~
+
+@11=~Though many who meet you wouldn't expect as such, you've lived a life of wonder and hardship. You grew up in a small clan of no more than ten humans living along the Sea of Moving Ice. As Ice Hunters your livelihood depended upon hunting the many walruses, seals, whales and polar bears that live in the region. Your life however has not just consisted of hunting, and the sheer beauty of northern ice flows, rivers, and shoreline has always made you to curious about what other places in the world look like.
+
+As a cleric of your people you have been handed down your peoples history orally, as has been done for centuries if not millennia. Over the eons the Northmen have pushed their way further north, taking the land that the Ice Hunters once called home and declaring it their own. The result of this is that cities and towns now mar what was once an empty coastline. As this has happened your people have increasingly come in contact with traders and explorers, who each have told you the stories and struggles of other areas of the world. Stories of pirates attacking merchants along the coastline of the Sea of the Swords, a rising popular bard named Guino in the City of Waterdeep, and most recently a mention of the troubles faced by inhabitants of a place called Icewind Dale.
+
+When pressed further about the troubles in Icewind Dale these traders had little to say, though Auril and her priesthood were mentioned as being a growing menace. 
+
+Among your people you most of all understand the danger of allowing Auril to grow more powerful. However, your curiosity and need to address this threat is only limited by more the immediate needs of your clan. As an Iceguardian you serve not only as a priest for your people but also as a hunter and warrior. Your absence will have an impact on your people and by leaving you do not wish to create more problems than you solve.
+
+Having discussed the matter with your clan they have respected your decision to leave. You are confident in their ability to take care of themselves and you hope no harm comes to them in your absence. You set forth for Icewind Dale, leaving behind your spears and other items in the hope that your clan can make good use of them.~
+@12=~Just a guy or gal who lives on ice and casts cold spells~
+
+
+@13=~Polar Fury~
+@14=~Polar Fury
+
+For 1 turn the Iceguardian calls upon a totem bears beast power to grant himself bear claws. This sets their strength to 18/72 and gives them 2 attacks per round. Each of their attacks now do 1d10 damage and each attack has a 15% chance per hit of doing an additional 3d6 damage.~
+
+@15=~Polar Bear Form~
+@16=~Shapeshift: Polar Bear
+
+Strength: 18/00
+Dexterity: 10
+
+Base Armor Class: 6
+Number of Attacks: 3
+Attack Damage: 2d5 slashing, 15% chance of doing 3d6 crushing damage
+
+Special Abilities:
+- Cold Resistance: 100%
+- Fire Resistance: -25%
+
+The Druid is healed 12 Hit Points after using this ability.~
+
+
+
+
+
+
+//Icepriest of Auril kit
+
+@17=~icepriest of auril~
+@18=~Icepriest of Auril~
+@19=~ICEPRIEST OF AURIL: Few who serve the Frostmaiden do so strictly out of reverence. Auril retains a strong presence in the north, largely due to the fear her name still has over its inhabitants, and many see her priesthood as a way of advancing their own interests. The acquiring of wealth through blackmail and the acquiring of power are two very common concerns expressed by members of her priesthood.
+
+Aurilites themselves are not surprisingly looked down upon by most common folk, though their immunity to cold has granted them a reputation for being able to complete tasks during the winter months that others could not do. Ultimately amongst her priesthood the cold is an ally. Auril herself has seen to granting her priests spells that protect against it and project it.
+
+Advantages
+
+- Level 1: Is immune to cold.
+- Has access to the spells Chill Touch (1st), Snilloc's Snowball Swarm(2nd), Protection from Cold (3rd level), Icelance (3rd level), Ice Storm (4th), Cone of Cold (5th) and Otiluke's Freezing Sphere (6th).
+- Can cast Frost Fingers as a 1st Level spell
+
+FROST FINGERS
+
+Sphere: Combat, Weather
+Range: 0
+Duration: Instant
+Casting Time 3
+Area of Effect: 3 foot cone with 120 degree arch
+Saving Throw: Special
+
+Frost Fingers is a cold form of the burning hands 1st-level wizard spell. When cast, it causes freezing cold and shards of ice to blast from the caster's fingertips to a distance of 3 feet in a 120 degree arc in front of the caster. Any creature in the area of effect suffers 1d3 points of damage plus 2 points for every level of the spellcaster, to a maximum of 1d3+20. Those who make a successful saving throw vs spells recieve half damage.
+
+- Can cast Ice Blade as a 4th level spell
+
+ICE BLADE
+
+Sphere: Combat, Weather
+Range: Caster
+Duration: 1 round/level
+Casting Time 4
+Area of Effect: Caster
+Saving Throw: None
+
+This spell creates a swirling sword-shaped formation of jagged, fast swirling ice shards extending from the casters hand. It is considered a +2 enchanted weapon for purposes of determining what it can hit and strikes at Thac0 6, regardless of the casters normal combat abilities. It deals 3d4 slashing damage as well as an additional 1d6 cold damage.
+
+- Can cast Heart of Ice as a 7th level spell
+
+
+HEART OF ICE
+
+(Alteration, Necromancy)
+Sphere: Combat, Necromantic
+Level: 7 
+Range: Touch 
+Casting Time: 1 round 
+Duration: Permanent 
+Area of Effect: 1 creature 
+Saving Throw: Yes
+
+This spell requires intense concentration (hence the long casting time) and can be delivered only by touch. Subjects must make a successful saving throw vs. death or else find themselves frozen. Those who successfully save suffer 5d8 points of internal damage instead.  Undead and Constructs are immune to the spell.
+
+- Level 12: Can cast Summon Ice-Para Elemental once a day starting at level 12.
+
+
+
+Disadvantages
+
+- Has no access to Flame Strike or False Dawn
+
+
+Restrictions
+
+- Must be of an evil alignment~
+
+@20=~For many years you have lived south of the Spine of the World, spreading fear of Auril amongst the villages found along the Long Road. While you have acquired your own degree of personal wealth by doing so, you've also noticed fewer people fearing Auril year after year.
+
+Though your own formal clerical training is still very much in its infancy, your time in the south has also allowed you to meet many other powerful clerics who venerate other gods. With more and more priests of Auril seemingly leaving the areas south of the Spine of the World, mostly with the intention of cementing Auril's holdings further in the north, you have begun to wonder if Auril is indeed worthy of your faith.
+
+Quarterstaff in hand you have begun a journey northward, intending to travel amongst the many smaller towns and villages of Icewind Dale to see for yourself the extent of your goddess’s reach.
+
+Through other priests of Auril you have heard tales of Auril’s efforts against the people of Kuldahar, and as you travel to the Dale you remain hopeful that your journey to the north will regain confidence in your goddess’s strength. Out of need to survive in an area otherwise hostile to Auril you have also decided to keep your faith hidden from those whom you travel with.~
+
+@21=~Its a priest of Auril. Lots of cold spells, no fire ones.~
+
+@22=~Heart of Ice~
+
+@23=~Heart of Ice
+
+(Alteration, Necromancy)
+Sphere: Combat, Necromantic 
+Level: 7 
+Range: Touch 
+Casting Time: 1 round 
+Duration: Permanent 
+Area of Effect: 1 creature 
+Saving Throw: Yes 
+
+This spell requires intense concentration (hence the long casting time) and can be delivered only by touch. Subjects must make a successful saving throw vs. death or else find themselves frozen. Those who successfully save suffer 5d8 points of internal damage instead.  Undead and Constructs are immune to the spell.~
+
+@24=~Ice Blade~
+
+@25=~Ice Blade
+
+Sphere: Combat, Weather
+Range: Caster
+Duration: 1 round/level
+Casting Time 4
+Area of Effect: Caster
+Saving Throw: None
+
+This spell creates a swirling sword-shaped formation of jagged, fast swirling ice shards extending from the casters hand. It is considered a +2 enchanted weapon for purposes of determining what it can hit and strikes at Thac0 6, regardless of the casters normal combat abilities. It deals 3d4 slashing damage as well as an additional 1d6 cold damage.~
+
+
+@26=~Ice Blade~
+@27=~Ice Blade~
+
+@28=~Frost Fingers~
+@29=~Frost Fingers
+
+Sphere: Combat, Weather
+Range: 0
+Duration: Instant
+Casting Time 3
+Area of Effect: 3 foot cone with 120 degree arch
+Saving Throw: Special
+
+Frost Fingers is a cold form of the burning hands 1st-level wizard spell. When cast, it causes freezing cold and shards of ice to blast from the caster's fingertips to a distance of 3 feet in a 120 degree arc in front of the caster. Any creature in the area of effect suffers 1d3 points of damage plus 2 points for every level of the spellcaster, to a maximum of 1d3+20. Those who make a successful saving throw vs spells recieve half damage.~
+
+
+
+@30=~Summon Ice-Para Elemental~
+
+@31=~Summon Ice-Para Elemental
+
+Sphere: Summoning
+Range: Visual range of caster.
+Duration: 5 Turns
+Casting Time 9
+Area of Effect: Special
+Saving Throw: None
+
+Similar to the priest spell Conjure Fire Elemental, this version instead only summons a 12 hit dice ice elemental. The elemental will obey the commands of the priest, but the priest does not have to concentrate on it to control it, leaving <PRO_HIMHER> free to perform other actions while the ice elemental turns its enemies to ice chunks. The elemental will last until the spell duration expires or the elemental is slain.~
+
+@32=~Ice-Para Elemental~
+@33=~Ice-Para Elemental~
+
+
+
+
+
+//Leaftender kit
+@34=~leaftender~
+@35=~Leaftender~
+@36=~LEAFTENDER: The Leaftender is similar in many ways to the druid--he or she is a priest who lives in and watches over the wild places that are so important to the halfling race. Despite the fact that his or her home and burrow is located deep in the woods, the Leaftender is not antisocial--halfling visitors will always find a warm welcome and be invited in to share a cup of a tea, a bit of conversation, and a warm fire.
+
+The Leaftender works to slowly tame a forest without destroying it. He or she will plant nut trees and berry bushes to provide more food for the local wildlife, tend sick trees, and generally make the woods he or she dwells in a healthier, friendlier place.
+
+
+Advantages:
+- Has minor access to plant and animal spells. Plant spells include Entangle (1st), Shillelagh (1st), Barkskin (2nd), Goodberry (2nd), Spike Growth (3rd), Mold Touch (3rd), and Thorn Spray (4th). Animal spells include Charm Person or Mammal (2nd), Hold Animal (3rd), Summon Insect (3rd), Animal Summoning I, Call Woodland Beings, and Giant Insect.
+- Level 2: They become immune to entangle
+- Level 5: They become immune to charm magic
+
+
+Disadvantages:
+- He can only become proficient in clubs, quarterstaves, slings, and any of the weapon styles.
+- Loses access to Animate Dead, Slay Living, and Finger of Death.
+
+Restrictions:
+
+- Must be a halfling
+- Must be neutral or good alignments (you get spell access based on your alignment).
+- Must have at least 9 charisma.~
+
+@37=~Living on the outskirts of a remote Halfling village for most of your life you’ve grown accustomed to tending to a forests needs. So far this has namely involved curing sickly trees and planting nuts and berries, as well as caring for the odd sick wolf or deer that you encounter.
+
+Your passion for nature knows no bounds however, and having read at a young age about the great trees of the north you have long wished to travel there to study them yourself. You also hope to bring plant life back to a region you hear has long since suffered from frost and cold.
+
+Unfortunately, you live near a very active village where a local cleric is a necessity. Healing the odd burn or bruise, helping farmers facing drought or pestilence, and even teaching local children about the importance of nature have long since taken up too much of your time for any sort of serious traveling. 
+
+Your time as a protector of nature and village healer did however leave you with a few connections within temples dedicated to preserving nature that could be reaching in only a few days travel. By chance you were able to arrange that a novice cleric of Mielikki take up the task of caring for your village’s residents and forests, at least until you return. With the Elder Council’s permission you have set out for Icewind Dale, staff in hand.~
+
+
+@38=~LEAFTENDER: Its a cleric that shares many similarities to lower level druids~
+
+
+
+
+//Priest of Luthic portion
+@39=~priest of luthic~
+@40=~Priest of Luthic~
+@41=~PRIEST OF LUTHIC: Those who serve the Cave Mother know her to be wise but firm in her beliefs. Amongst her clergy there is a strong sense of connection to the earth as well as a value placed in the practice of minor healing. Of those in the Orc Pantheon she is the only one who has placed any interest in the art of healing, a view that her followers have noted. As a result in the midst of battle her followers can often be found on the front lines caring for the wounded, and, in rare cases, raising the fallen.
+
+
+Advantages:
+
+- Unlike other evil priests they gets access to all healing spells and healing-related necromancy spells (this includes Cure Critical Wounds, Mass Cure Light Wounds, Raise Dead, Heal, Greater Restoration, Regeneration, and Resurrection).
+- They can also cast “Blistering Disease” as a 4th level spell. Its description is as follows.
+
+
+Blistering Disease
+
+Sphere: Necromancy 
+Range: Touch
+Duration: 8 rounds
+Area of Effect: Single target
+Casting Time: 4
+Saving Throw: Save vs death
+
+This spell afflicts one creature the priest targets with a disease that saps the target of 5 points of Strength. The bursting of blisters on the victim inflicts an additional 5 poison damage/ round for 8 rounds. A successful Save vs. negates all effects. This spell has no effect on undead, constructs, or extraplanar creatures. 
+
+
+
+Disadvantages:
+
+- Loses access to spells in the "Combat" sphere above level 4. This includes Righteous Magic, Righteous Wrath of the Faithful, Flame Strike, Slay Living, Bolt of Glory, and Unholy Word.
+
+Restrictions:
+
+- Must be evil.
+- Must be a half-orc.~
+
+//Biography
+@42=~In your time as a priest of Luthic you’ve seen many battles, though mostly only from the sidelines. Caring for the injured is what you do best, even though this skill is often not appreciated by others of your kind. That said, when battle beckons you are well trained to answer it. In your time training as a priest you have become extremely proficient in your weapon of choice, something that is shared by many worshipers of Luthic.
+
+You’ve spent much of your life in the north, though only now have you truly had the chance to independently travel it. Less than a fortnight ago you were summoned by a high priest of Luthic. They saw your potential in battle and tasked you with travelling elsewhere in the north to gain strength and assist others as you see fit. Many in the north view Luthic as nothing more than servant of Gruumsh, and you are tasked with showing them otherwise.
+
+Inspired by your own peoples tales of the region you’ve set out for Icewind Dale. In time you hope to eventually test yourself against the frozen tundra and mountains of the Spine of the World, where not even roaming packs of Yetis will stand in your way. ~
+
+@43=~An evil priest who can heal better than most evil priests~
+
+@44=~Blistering Disease~
+
+@45=~Blistering Disease
+
+Sphere: Necromancy 
+Range: Touch
+Duration: 8 rounds
+Area of Effect: Single target
+Casting Time: 4
+Saving Throw: Save vs death
+
+This spell afflicts one creature the priest targets with a disease that saps the target of 5 points of Strength. The bursting of blisters on the victim inflicts an additional 5 poison damage/ round for 8 rounds. A successful Save vs. negates all effects. This spell has no effect on undead, constructs, or extraplanar creatures.~
+
+
+//Shaman of Gruumsh
+
+@46=~shaman of gruumsh~
+@47=~Shaman of Gruumsh~
+@48=~SHAMAN OF GRUUMSH: Few in Gruumsh's priesthood are willing to make the sacrifices that are demanded of his shamans. Long ago it is said that Gruumsh lost an eye in a battle with Corellon Larethian, the head of the pantheon of the elves. Though followers of Gruumsh firmly maintain that he always had one eye, and that he only lost the battle due to trickery by Corellon, shaman's of Gruumsh continue to this day to pluck out their left eye in order to show solidarity with their god. Today this is required to become a shaman of the god, and while having one eye creates its own set of difficulties Gruumsh rewards those who make this sacrifice. Provided of course they follow through with his wishes.
+
+
+Advantages
+
+- Level 1: Everytime an enemy is killed by the priest the priest is healed by 1d8 health.
+- Level 1: Gets + 1 to hit elves, half-elves, duergbar, and dwarves
+- Level 1: Can cast Aid on themselves once per day.
+- Can inspire themselves as well as other party members and summons once per 10 levels with the unique ability “Gruumsh’s Rage”. This ability can be stacked with itself.
+
+GRUUMSH'S RAGE
+
+Sphere: Combat
+Range: 0
+Duration: Special
+Casting Time 3
+Area of Effect: 30 foot. radius.
+Saving Throw: None
+
+Amongst his shamans Gruumsh bestows only his greatest gifts, the most significant being the ability to call upon the rage and brutality of Gruumsh in battle. The duration of this assistance is typically short, namely because channelling the rage requires significant mental fortitude. Lower level shamans that use it have even been known to fear the loss of Gruumsh favour the moment that it ends.
+
+Level 1: +1 Thac0, +3 damage, + 1 to save vs death,  Lasts for 2 rounds. After 2 rounds the caster has a 75% chance of being panicked.
+Level 6: +2 Thac0, +3 damage, +2 save vs death, +5% physical damage resistance. Lasts for 3 rounds. After 3 rounds has a 50% chance of being panicked.
+Level 11: +2 Thac0, +4 damage, +4 save vs death, +1 AC, 10% physical damage resistance. Lasts for 4 rounds. 
+Level 16+: +3 Thac0, +6 damage, +4 save vs death, + 2 AC, 15% physical damage resistance. Lasts for 6 rounds. 
+
+
+- Level 7: Gets access to Blood Rage (4th level spell) despite alignment
+
+
+Disadvantages:
+
+- Due their partial blindness they have half the normal visual range and have a Thac0 and AC penalty of +2.
+
+Restrictions:
+
+- Must be lawful evil.
+- Must be a half-orc.
+- Must have at least 15 strength.~
+
+
+@49=~Shortly after your initiation into a particularly devote clan of Gruumsh worshipers you were summoned by the high priest of your clan. You were to take part in a ceremony overseen by veterans of your faith, a ceremony where you would remove your own left eye.
+
+The ceremony itself was painful, though you emerged from it more confident in your own abilities and more fearful of the wrath of your newfound god should you ever fail.
+
+Sensing your potential as a warrior and shaman the high priest demanded that you venture into the Spine of the World to spread fear of Gruumsh to anyone who could witness it. Gruumsh himself has taken interest in the region, particularly given the concern that other humanoid deities seem to have shown it.
+
+Given the legends surrounding these mountains you found yourself eager to accept the task. Projecting fear upon the people of the region seemed the perfect chance to prove your devotion to the only truly maimed god. Without hesitation you agreed to make the pilgrimage. Before long you had embarked on your journey, with only a staff and your skill to protect you.~
+
+
+@50=~Shaman of Gruumsh is like a blind hulk~
+
+@51=~Gruumsh's Rage~
+
+@52=~Gruumsh's Rage
+
+Sphere: Combat
+Range: 0
+Duration: Special
+Casting Time 3
+Area of Effect: 30 foot. radius.
+Saving Throw: None
+
+Amongst his shamans Gruumsh bestows only his greatest gifts, the most significant being the ability to call upon the rage and brutality of Gruumsh in battle. The duration of this assistance is typically short, namely because channelling the rage requires significant mental fortitude. Lower level shamans that use it have even been known to fear the loss of Gruumsh favour the moment that it ends.
+
+Level 1: +1 Thac0, +3 damage, + 1 to save vs death,  Lasts for 2 rounds. After 2 rounds the caster has a 75% chance of being panicked.
+Level 6: +2 Thac0, +3 damage, +2 save vs death, +5% physical damage resistance. Lasts for 3 rounds. After 3 rounds has a 50% chance of being panicked.
+Level 11: +2 Thac0, +4 damage, +4 save vs death, +1 AC, 10% physical damage resistance. Lasts for 4 rounds. 
+Level 16+: +3 Thac0, +6 damage, +4 save vs death, + 2 AC, 15% physical damage resistance. Lasts for 6 rounds.~
+
+@53=~Aid~
+@54=~Aid
+(Necromancy, Conjuration)
+
+Level: 2
+Sphere: Necromantic
+Range: Touch
+Duration: 1 round+ 1 round/level
+Casting Time: 5
+Area of Effect: Caster
+Saving Throw: None
+
+By casting this spell the Shaman of Gruumsh gains the benefits of a Bless spell (+1 to attack rolls and Saving Throws) as well as 1d8 bonus Hit Points for the duration of the spell. These bonus Hit Points can exceed a character's maximum Hit Points, but they are lost when the recipient takes damage and cannot be regained by curative magic.~
