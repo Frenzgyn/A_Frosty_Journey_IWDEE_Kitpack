@@ -1,8 +1,7 @@
 
-![Latest Release](https://img.shields.io/github/v/release/SpellholdStudios/
-Quick_Save_Slots_Tweaks?include_prereleases&color=darkred)<a name="top" id="top"> </a>
+![Latest Release](https://img.shields.io/github/v/release/SpellholdStudios/A_Frosty_Journey_IWDEE_Kitpack?include_prereleases&color=darkred)<a name="top" id="top"> </a>
 ![Platform](https://img.shields.io/static/v1?label=platform&message=windows%20%7C%20Mac%20%7C%20linux&color=informational)
-![Language](https://img.shields.io/static/v1?label=language&message=English%20%7C%20French&color=limegreen)
+![Language](https://img.shields.io/static/v1?label=language&message=English%20%7C%20Russian&color=limegreen)
 
 
 <div align="center"><h1>A Frosty Journey: The IWDEE Kitpack</h1>
@@ -13,7 +12,7 @@ Quick_Save_Slots_Tweaks?include_prereleases&color=darkred)<a name="top" id="top"
 </div><br />
 
 
-**Author:** elminster  
+**Author:** elminster (aka Yellow Hat Elminster)  
 **Mod Website:** <a href="http://www.shsforums.net/topic/58653-mod-quick-save-slots-tweaks/">Spellhold Studios</a>  
 **Alternative:** <a href="https://forums.beamdog.com/discussion/comment/866615/">Beamdog</a>  
 
@@ -35,11 +34,11 @@ Quick_Save_Slots_Tweaks?include_prereleases&color=darkred)<a name="top" id="top"
 
 
 [Mod]
-Rev=2.91
 
 Link=https://forums.beamdog.com/discussion/36181/a-frosty-journey-the-iwdee-kitpack-beta/
+
 Down=http://www.shsforums.net/files/getdownload/9062-a-frosty-journey-the-iwdee-kitpack/
-Save=k9IWDEEKit 2.91.zip
+
 http://www.shsforums.net/files/file/1099-a-frosty-journey-the-iwdee-kitpack/
 
 
@@ -50,9 +49,11 @@ http://www.shsforums.net/files/file/1099-a-frosty-journey-the-iwdee-kitpack/
 @3=Install Myrmidon
 @4=Install Tunnelrat
 @5=Install Giant Killer
+
 @6=Install Divinate of Mystra kit
 @7=Install Divinate of Mielekki kit
 @8=Install Divinate of Ilmater kit
+
 @9=Install Brothers and Sisters of the Pure Flame
 @10=Install Child of the Passive Voice
 @11=Install Disciple of the Changeless Face
@@ -93,6 +94,9 @@ Mod-EN=34 new kits for IWDEE.
 
 <hr>
 
+
+Monk of the Weeping Friars Kit : fixed wrong Lay on Hands ability strrefs.
+dlysanpr.d ???
 
 ## <a name="versions" id="versions"></a>Version History
 
