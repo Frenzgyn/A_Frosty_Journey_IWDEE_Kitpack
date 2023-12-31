@@ -17,25 +17,25 @@ BEGIN @7001
 GROUP @900
 
 //Egg
-COPY ~k9IWDEEkit/General/CRE/Yeorg.cre~ ~override/Yeorg.cre~
+COPY ~k9IWDEEkit/general/CRE/Yeorg.cre~ ~override/Yeorg.cre~
     SAY NAME1 @101
     SAY NAME2 @101
 
-COPY ~k9IWDEEkit/General/BMP/2MDWF2_L.bmp~  ~override/2MDWF2_L.bmp~
-COPY ~k9IWDEEkit/General/BMP/2MDWF2_S.bmp~  ~override/2MDWF2_S.bmp~
+COPY ~k9IWDEEkit/general/BMP/2MDWF2_L.bmp~  ~override/2MDWF2_L.bmp~
+COPY ~k9IWDEEkit/general/BMP/2MDWF2_S.bmp~  ~override/2MDWF2_S.bmp~
 
-COPY ~k9IWDEEkit/General/ITM/YeorgLet.itm~ ~override/YeorgLet.itm~
+COPY ~k9IWDEEkit/general/ITM/YeorgLet.itm~ ~override/YeorgLet.itm~
     SAY NAME1 @103
     SAY NAME2 @103
     SAY DESC @104
 
 //Egg Dialogs
-COMPILE ~k9IWDEEkit/General/D/Yeorg.d~
+COMPILE ~k9IWDEEkit/general/D/Yeorg.d~
 
 
 //Egg Scripts
 
-EXTEND_TOP ~AR1006.bcs~ ~k9IWDEEkit/General/Script/AR1006.baf~
+EXTEND_TOP ~AR1006.bcs~ ~k9IWDEEkit/general/Script/AR1006.baf~
 
 
 
@@ -419,7 +419,7 @@ ADD_KIT ~k9Giant~ // this is the internal name of the kit, don't bother if it is
    // append to DUALCLAS.2DA, check the file for reference on the listing of the classes.
   ~k9Giant                0       1       0       0       0       0~
    // path to the CLAB*.2DA file.
-  ~k9IWDEEkit/Ranger/Giant Killer/2DA/k9Giant.2DA~
+  ~k9IWDEEkit/ranger/giant_killer/2DA/k9Giant.2DA~
     // this are the races that can choose the kit-- for example, K_T_H means thief human
     // and K_T_D means dwarf thief, so putting those here would make this kit selectable by those classes (from KITTABLE.2DA).
   ~K_R_H    K_R_E   K_R_HE~
@@ -476,18 +476,18 @@ LAF fl#add_kit_ee // launch_action_function start
 END // end of the LAF (launch_action_function) block.
 
 //Damage bonus  (5 damage)
-COPY "k9IWDEEkit/Ranger/Giant Killer/EFF/k9G5ETDa.EFF" "override"
-COPY "k9IWDEEkit/Ranger/Giant Killer/EFF/k9G5TRDa.EFF" "override"
-COPY "k9IWDEEkit/Ranger/Giant Killer/EFF/k9G5GIDa.EFF" "override"
-COPY "k9IWDEEkit/Ranger/Giant Killer/EFF/k9G5OGDa.EFF" "override"
-COPY "k9IWDEEkit/Ranger/Giant Killer/SPL/SPG5ANDa.SPL" "override"
+COPY "k9IWDEEkit/ranger/giant_killer/EFF/k9G5ETDa.EFF" "override"
+COPY "k9IWDEEkit/ranger/giant_killer/EFF/k9G5TRDa.EFF" "override"
+COPY "k9IWDEEkit/ranger/giant_killer/EFF/k9G5GIDa.EFF" "override"
+COPY "k9IWDEEkit/ranger/giant_killer/EFF/k9G5OGDa.EFF" "override"
+COPY "k9IWDEEkit/ranger/giant_killer/SPL/SPG5ANDa.SPL" "override"
 
 //Thac0 Bonus of +4
-COPY "k9IWDEEkit/Ranger/Giant Killer/EFF/k9GIGIAN.EFF" "override"
-COPY "k9IWDEEkit/Ranger/Giant Killer/EFF/k9GITROL.EFF" "override"
-COPY "k9IWDEEkit/Ranger/Giant Killer/EFF/k9GIETTI.EFF" "override"
-COPY "k9IWDEEkit/Ranger/Giant Killer/EFF/k9GIOGRE.EFF" "override"
-COPY "k9IWDEEkit/Ranger/Giant Killer/SPL/SPGIANT.SPL" "override"
+COPY "k9IWDEEkit/ranger/giant_killer/EFF/k9GIGIAN.EFF" "override"
+COPY "k9IWDEEkit/ranger/giant_killer/EFF/k9GITROL.EFF" "override"
+COPY "k9IWDEEkit/ranger/giant_killer/EFF/k9GIETTI.EFF" "override"
+COPY "k9IWDEEkit/ranger/giant_killer/EFF/k9GIOGRE.EFF" "override"
+COPY "k9IWDEEkit/ranger/giant_killer/SPL/SPGIANT.SPL" "override"
 
 
 
@@ -808,7 +808,7 @@ ADD_KIT ~k9Flame~ // this is the internal name of the kit, don't bother if it is
    // append to DUALCLAS.2DA, check the file for reference on the listing of the classes.
   ~k9Flame                0       0       0       0       0       0~
    // path to the CLAB*.2DA file.
-  ~k9IWDEEkit/Monk/Pure Flame/2DA/k9BRSIPF.2da~
+  ~k9IWDEEkit/monk/pure_flame/2DA/k9BRSIPF.2da~
     // this are the races that can choose the kit-- for example, K_T_H means thief human
     // and K_T_D means dwarf thief, so putting those here would make this kit selectable by those classes (from KITTABLE.2DA).
   ~K_MN_H~
@@ -861,22 +861,22 @@ LAF fl#add_kit_ee // launch_action_function start
 END // end of the LAF (launch_action_function) block.
 
 
-COPY "k9IWDEEkit\Monk\Pure Flame\SPL\k9FISFL.SPL" "override"
+COPY "k9IWDEEkit\monk\pure_flame\SPL\k9FISFL.SPL" "override"
   SAY NAME1 @660
   SAY NAME2 @660
   SAY 0x50 @661
 
-COPY "k9IWDEEkit\Monk\Pure Flame\SPL\k9SPGFD.SPL" "override"
+COPY "k9IWDEEkit\monk\pure_flame\SPL\k9SPGFD.SPL" "override"
 
-COPY "k9IWDEEkit\Monk\Pure Flame\SPL\k9SPGFL.SPL" "override"
+COPY "k9IWDEEkit\monk\pure_flame\SPL\k9SPGFL.SPL" "override"
   SAY NAME1 @662
   SAY NAME2 @662
   SAY 0x50 @663
 
 
-COPY "k9IWDEEkit\Monk\Pure Flame\SPL\k9SPKOS.SPL" "override"
+COPY "k9IWDEEkit\monk\pure_flame\SPL\k9SPKOS.SPL" "override"
 
-COPY "k9IWDEEkit\Monk\Pure Flame\SPL\k9SPKO2.SPL" "override"
+COPY "k9IWDEEkit\monk\pure_flame\SPL\k9SPKO2.SPL" "override"
 
 
 //Child of the Passive Voice
@@ -1794,21 +1794,21 @@ LAF fl#add_kit_ee // launch_action_function start
 END // end of the LAF (launch_action_function) block.
 
 //Fist of Spells
-COPY "k9IWDEEkit\Monk\\Hand\SPL\K9FISPE.SPL" "override"
+COPY "k9IWDEEkit\Monk\Hand\SPL\K9FISPE.SPL" "override"
   SAY NAME1 @733
   SAY NAME2 @733
   SAY 0x50 @734
   
-COPY "k9IWDEEkit\Monk\\Hand\EFF\K9MNKFSP.EFF" "override"
+COPY "k9IWDEEkit\Monk\Hand\EFF\K9MNKFSP.EFF" "override"
 
 //Saving Throw gains
-COPY "k9IWDEEkit\Monk\\Hand\SPL\K9SaveS.SPL" "override"
+COPY "k9IWDEEkit\Monk\Hand\SPL\K9SaveS.SPL" "override"
 
 //Lore gains
-COPY "k9IWDEEkit\Monk\\Hand\SPL\SPLOR10.SPL" "override"
+COPY "k9IWDEEkit\Monk\Hand\SPL\SPLOR10.SPL" "override"
 
 //Spell Deflection
-COPY "k9IWDEEkit\Monk\\Hand\SPL\k9Sdefl.SPL" "override"
+COPY "k9IWDEEkit\Monk\Hand\SPL\k9Sdefl.SPL" "override"
   SAY NAME1 @735
   SAY NAME2 @735
   SAY 0x50 @736
@@ -2502,7 +2502,7 @@ ADD_KIT ~k9Vermin~ // this is the internal name of the kit, don't bother if it i
    // append to DUALCLAS.2DA, check the file for reference on the listing of the classes.
   ~k9Vermin                1       1       1       0       0       0~
    // path to the CLAB*.2DA file.
-  ~k9IWDEEkit\Thief\Vermin Slayer\2DA\k9Vermin.2DA~
+  ~k9IWDEEkit\thief\vermin_slayer\2DA\k9Vermin.2DA~
     // this are the races that can choose the kit-- for example, K_T_H means thief human
     // and K_T_D means dwarf thief, so putting those here would make this kit selectable by those classes (from KITTABLE.2DA).
   ~K_T_D~
@@ -2577,43 +2577,43 @@ LAF fl#add_kit_ee // launch_action_function start
 END // end of the LAF (launch_action_function) block.
 
 //HP 2DA
-COPY "k9IWDEEkit\Thief\Vermin Slayer\2DA\HPVERMIN.2DA" "override"
+COPY "k9IWDEEkit\thief\vermin_slayer\2DA\HPVERMIN.2DA" "override"
 
 
 //Hide in Shadows bonus
 
-COPY "k9IWDEEkit\Thief\Vermin Slayer\SPL\K9VEHID.SPL" "override"
+COPY "k9IWDEEkit\thief\vermin_slayer\SPL\K9VEHID.SPL" "override"
 
 //Move Silently bonus
 
-COPY "k9IWDEEkit\Thief\Vermin Slayer\SPL\K9VEMOV.SPL" "override"
+COPY "k9IWDEEkit\thief\vermin_slayer\SPL\K9VEMOV.SPL" "override"
 
 //Find Traps bonus
 
-COPY "k9IWDEEkit\Thief\Vermin Slayer\SPL\K9VEFIN.SPL" "override"
+COPY "k9IWDEEkit\thief\vermin_slayer\SPL\K9VEFIN.SPL" "override"
 
 //Pick Pocket penalty
 
-COPY "k9IWDEEkit\Thief\Vermin Slayer\SPL\K9VEPICK.SPL" "override"
+COPY "k9IWDEEkit\thief\vermin_slayer\SPL\K9VEPICK.SPL" "override"
 
 //Fighting bonuses vs creatures
 
-COPY "k9IWDEEkit\Thief\Vermin Slayer\SPL\K9SPVERM.SPL" "override"
-COPY "k9IWDEEkit\Thief\Vermin Slayer\EFF\k9VermBE.EFF" "override"
-COPY "k9IWDEEkit\Thief\Vermin Slayer\EFF\k9VermCC.EFF" "override"
-COPY "k9IWDEEkit\Thief\Vermin Slayer\EFF\k9VermHU.EFF" "override"
-COPY "k9IWDEEkit\Thief\Vermin Slayer\EFF\k9VermUD.EFF" "override"
-COPY "k9IWDEEkit\Thief\Vermin Slayer\EFF\k9VermSP.EFF" "override"
-COPY "k9IWDEEkit\Thief\Vermin Slayer\EFF\k9VSBEDa.EFF" "override"
-COPY "k9IWDEEkit\Thief\Vermin Slayer\EFF\k9VSCCDa.EFF" "override"
-COPY "k9IWDEEkit\Thief\Vermin Slayer\EFF\k9VSHUDa.EFF" "override"
-COPY "k9IWDEEkit\Thief\Vermin Slayer\EFF\k9VSUDDa.EFF" "override"
-COPY "k9IWDEEkit\Thief\Vermin Slayer\EFF\k9VSSPDa.EFF" "override"
+COPY "k9IWDEEkit\thief\vermin_slayer\SPL\K9SPVERM.SPL" "override"
+COPY "k9IWDEEkit\thief\vermin_slayer\EFF\k9VermBE.EFF" "override"
+COPY "k9IWDEEkit\thief\vermin_slayer\EFF\k9VermCC.EFF" "override"
+COPY "k9IWDEEkit\thief\vermin_slayer\EFF\k9VermHU.EFF" "override"
+COPY "k9IWDEEkit\thief\vermin_slayer\EFF\k9VermUD.EFF" "override"
+COPY "k9IWDEEkit\thief\vermin_slayer\EFF\k9VermSP.EFF" "override"
+COPY "k9IWDEEkit\thief\vermin_slayer\EFF\k9VSBEDa.EFF" "override"
+COPY "k9IWDEEkit\thief\vermin_slayer\EFF\k9VSCCDa.EFF" "override"
+COPY "k9IWDEEkit\thief\vermin_slayer\EFF\k9VSHUDa.EFF" "override"
+COPY "k9IWDEEkit\thief\vermin_slayer\EFF\k9VSUDDa.EFF" "override"
+COPY "k9IWDEEkit\thief\vermin_slayer\EFF\k9VSSPDa.EFF" "override"
 
 
 //Thac0 bonus
 
-COPY "k9IWDEEkit\Thief\Vermin Slayer\SPL\K9VETHAC.SPL" "override"
+COPY "k9IWDEEkit\thief\vermin_slayer\SPL\K9VETHAC.SPL" "override"
 
 
 
@@ -2629,105 +2629,105 @@ GROUP @906
 //Penalties - This changes a number of spells around to provide for compatibility with existing paladin and cleric kits as well as for my newly introduced cleric kits. Basically it changes their flags so that clerics can't use them unless they are introduced in the paladin or clerics CLAB file (either through an SPL and EFF file in the case of alignment restricted spells like Slay Living or just regularly through an inclusion of them in the clab file).
 
 //Animate Dead
-COPY "k9IWDEEkit\General\SPL\SPPR301.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\SPPR301.SPL" "override"
 
 //Cure Critical Wounds
-COPY "k9IWDEEkit\General\SPL\CriticWo.SPL" "override"
-COPY "k9IWDEEkit\General\SPL\SPPR502.SPL" "override"
-COPY "k9IWDEEkit\General\EFF\CriticWo.EFF" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\CriticWo.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\SPPR502.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\CriticWo.EFF" "override"
 
 //Flame Strike
-COPY "k9IWDEEkit\General\SPL\SPPR503.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\SPPR503.SPL" "override"
 
 //Raise Dead
-COPY "k9IWDEEkit\General\SPL\RaiseDea.SPL" "override"
-COPY "k9IWDEEkit\General\SPL\SPPR504.SPL" "override"
-COPY "k9IWDEEkit\General\EFF\RaiseDea.EFF" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\RaiseDea.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\SPPR504.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\RaiseDea.EFF" "override"
 
 //Slay Living
-COPY "k9IWDEEkit\General\SPL\Slayliv.SPL" "override"
-COPY "k9IWDEEkit\General\SPL\SPPR511.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\Slayliv.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\SPPR511.SPL" "override"
 
 //Righteous Magic
-COPY "k9IWDEEkit\General\SPL\SPPR513.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\SPPR513.SPL" "override"
 
 //Mass Cure Light Wounds
-COPY "k9IWDEEkit\General\SPL\MCureLig.SPL" "override"
-COPY "k9IWDEEkit\General\SPL\SPPR514.SPL" "override"
-COPY "k9IWDEEkit\General\EFF\MCureLig.EFF" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\MCureLig.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\SPPR514.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\MCureLig.EFF" "override"
 
 //Righteous Wrath of the Faithful
-COPY "k9IWDEEkit\General\SPL\SPPR518.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\SPPR518.SPL" "override"
 
 //Aerial Servant
-COPY "k9IWDEEkit\General\SPL\SPPR601.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\SPPR601.SPL" "override"
 
 //Heal
-COPY "k9IWDEEkit\General\SPL\Healge.SPL" "override"
-COPY "k9IWDEEkit\General\SPL\SPPR607.SPL" "override"
-COPY "k9IWDEEkit\General\EFF\Healge.EFF" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\Healge.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\SPPR607.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\Healge.EFF" "override"
 
 //False Dawn
-COPY "k9IWDEEkit\General\SPL\SPPR609.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\SPPR609.SPL" "override"
 
 //Bolt of Glory
-COPY "k9IWDEEkit\General\SPL\SPPR612.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\SPPR612.SPL" "override"
 
 //Finger of Death
-COPY "k9IWDEEkit\General\SPL\SPPR708.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\SPPR708.SPL" "override"
 
 //Regeneration
-COPY "k9IWDEEkit\General\SPL\Regenge.SPL" "override"
-COPY "k9IWDEEkit\General\SPL\SPPR711.SPL" "override"
-COPY "k9IWDEEkit\General\EFF\Regenge.EFF" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\Regenge.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\SPPR711.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\Regenge.EFF" "override"
 
 //Resurrection
-COPY "k9IWDEEkit\General\SPL\Resurr.SPL" "override"
-COPY "k9IWDEEkit\General\SPL\SPPR712.SPL" "override"
-COPY "k9IWDEEkit\General\EFF\Resurr.EFF" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\Resurr.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\SPPR712.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\Resurr.EFF" "override"
 
 //Greater Restoration
-COPY "k9IWDEEkit\General\SPL\SPPR713.SPL" "override"
-COPY "k9IWDEEkit\General\SPL\Restorat.SPL" "override"
-COPY "k9IWDEEkit\General\EFF\Restorat.EFF" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\SPPR713.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\Restorat.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\Restorat.EFF" "override"
 
 //Unholy Word
-COPY "k9IWDEEkit\General\SPL\SPPR715.SPL" "override"
-COPY "k9IWDEEkit\General\SPL\Unholywr.SPL" "override"
-COPY "k9IWDEEkit\General\EFF\Unholywr.EFF" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\SPPR715.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\Unholywr.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\Unholywr.EFF" "override"
 
 //Energy Drain
-COPY "k9IWDEEkit\General\SPL\SPPR739.SPL" "override"
-COPY "k9IWDEEkit\General\SPL\Energydr.SPL" "override"
-COPY "k9IWDEEkit\General\EFF\Energydr.EFF" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\SPPR739.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\Energydr.SPL" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\Energydr.EFF" "override"
 
 
 //This changes around the existing paladin and cleric kits a bit for compatibility reasons
 //Regular Paladin
-COPY "k9IWDEEkit\General\2DA\CLABPA01.2DA" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\2DA\CLABPA01.2DA" "override"
 //Cavalier
-COPY "k9IWDEEkit\General\2DA\CLABPA02.2DA" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\2DA\CLABPA02.2DA" "override"
 //Inquisitor
-COPY "k9IWDEEkit\General\2DA\CLABPA03.2DA" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\2DA\CLABPA03.2DA" "override"
 //Undead Hunter
-COPY "k9IWDEEkit\General\2DA\CLABPA04.2DA" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\2DA\CLABPA04.2DA" "override"
 //Blackguard
-COPY "k9IWDEEkit\General\2DA\CLABPA06.2DA" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\2DA\CLABPA06.2DA" "override"
 
 
 
 //Regular Cleric
-COPY "k9IWDEEkit\General\2DA\CLABPR01.2DA" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\2DA\CLABPR01.2DA" "override"
 //Talos
-COPY "k9IWDEEkit\General\2DA\CLABPR02.2DA" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\2DA\CLABPR02.2DA" "override"
 //Helm
-COPY "k9IWDEEkit\General\2DA\CLABPR03.2DA" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\2DA\CLABPR03.2DA" "override"
 //Lathander
-COPY "k9IWDEEkit\General\2DA\CLABPR04.2DA" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\2DA\CLABPR04.2DA" "override"
 //Tyr
-COPY "k9IWDEEkit\General\2DA\OHTYR.2DA" "override"  
+COPY "k9IWDEEkit\general\cleric_penalties\2DA\OHTYR.2DA" "override"  
 //Tempus
-COPY "k9IWDEEkit\General\2DA\OHTEMPUS.2DA" "override"
+COPY "k9IWDEEkit\general\cleric_penalties\2DA\OHTEMPUS.2DA" "override"
 
 
 //Cleric kits
@@ -3499,29 +3499,29 @@ GROUP @908
 
 //This is just addressing mod compatibility with existing ranger and druid classes/kits
 //Summon Insects
-COPY "k9IWDEEkit\Druid\Hivemaster\General\SPL\SPPR319.spl" "override"
+COPY "k9IWDEEkit\Druid\Hivemaster\general\SPL\SPPR319.spl" "override"
 
 //Giant Insect
-COPY "k9IWDEEkit\Druid\Hivemaster\General\SPL\SPPR418.spl" "override"
+COPY "k9IWDEEkit\Druid\Hivemaster\general\SPL\SPPR418.spl" "override"
 
 //Insect Plague
-COPY "k9IWDEEkit\Druid\Hivemaster\General\SPL\SPPR517.spl" "override"
+COPY "k9IWDEEkit\Druid\Hivemaster\general\SPL\SPPR517.spl" "override"
 
 //Creeping Doom
-COPY "k9IWDEEkit\Druid\Hivemaster\General\SPL\SPPR717.spl" "override"
+COPY "k9IWDEEkit\Druid\Hivemaster\general\SPL\SPPR717.spl" "override"
 
 
 //Druid 2DA compatibility fixes
-COPY "k9IWDEEkit\Druid\Hivemaster\General\2DA\CLABDR01.2DA" "override"
-COPY "k9IWDEEkit\Druid\Hivemaster\General\2DA\CLABDR02.2DA" "override"
-COPY "k9IWDEEkit\Druid\Hivemaster\General\2DA\CLABDR03.2DA" "override"
-COPY "k9IWDEEkit\Druid\Hivemaster\General\2DA\CLABDR04.2DA" "override"
+COPY "k9IWDEEkit\Druid\Hivemaster\general\2DA\CLABDR01.2DA" "override"
+COPY "k9IWDEEkit\Druid\Hivemaster\general\2DA\CLABDR02.2DA" "override"
+COPY "k9IWDEEkit\Druid\Hivemaster\general\2DA\CLABDR03.2DA" "override"
+COPY "k9IWDEEkit\Druid\Hivemaster\general\2DA\CLABDR04.2DA" "override"
 
 //Ranger 2DA compatibility fixes
-COPY "k9IWDEEkit\Druid\Hivemaster\General\2DA\CLABRN01.2DA" "override"
-COPY "k9IWDEEkit\Druid\Hivemaster\General\2DA\CLABRN02.2DA" "override"
-COPY "k9IWDEEkit\Druid\Hivemaster\General\2DA\CLABRN03.2DA" "override"
-COPY "k9IWDEEkit\Druid\Hivemaster\General\2DA\CLABRN04.2DA" "override"
+COPY "k9IWDEEkit\Druid\Hivemaster\general\2DA\CLABRN01.2DA" "override"
+COPY "k9IWDEEkit\Druid\Hivemaster\general\2DA\CLABRN02.2DA" "override"
+COPY "k9IWDEEkit\Druid\Hivemaster\general\2DA\CLABRN03.2DA" "override"
+COPY "k9IWDEEkit\Druid\Hivemaster\general\2DA\CLABRN04.2DA" "override"
 
 
 //Hivemaster
